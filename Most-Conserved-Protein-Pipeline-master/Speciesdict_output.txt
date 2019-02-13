@@ -1,0 +1,907 @@
+Giardia_intestinalis
+['Emiliania_huxleyi', 'Chondrus_crispus', 'Galdieria_sulphuraria', 'Cyanidioschyzon_merolae', 'Bigelowiella_natans', 'Trypanosoma_brucei', 'Leishmania_major', 'Tetrahymena_thermophila', 'Paramecium_tetraurelia', 'Toxoplasma_gondii', 'Hyaloperonospora_arabidopsidis', 'Phaeodactylum_tricornutum', 'Thalassiosira_pseudonana', 'Dictyostelium_discoideum', 'Entamoeba_histolytica', 'Physcomitrella_patens', 'Plasmodium_falciparum', 'Ustilago_maydis', 'Amphimedon_queenslandica', 'Micromonas_pusilla', 'Volvox_carteri', 'Chlamydomonas_reinhardtii', 'Selaginella_moellendorffii', 'Phytophthora_infestans', 'Phytophthora_parasitica', 'Phytophthora_ramorum', 'Phytophthora_sojae', 'Schizosaccharomyces_pombe', 'Trichoplax_adhaerens', 'Ostreococcus_lucimarinus', 'Ostreococcus_tauri', 'Amborella_trichopoda', 'Plasmodium_vivax', 'Plasmodium_knowlesi', 'Plasmodium_chabaudi', 'Plasmodium_berghei', 'Saccharomyces_cerevisiae', 'Mnemiopsis_leidyi', 'Fusarium_fujikuroi', 'Nelumbo_nucifera', 'Aspergillus_clavatus', 'Echinococcus_granulosus', 'Hydra_vulgaris', 'Musa_acuminata', 'Elaeis_guineensis', 'Phoenix_dactylifera', 'Aspergillus_oryzae', 'Aspergillus_terreus', 'Nematostella_vectensis', 'Ananas_comosus', 'Vitis_vinifera', 'Saccoglossus_kowalevskii', 'Acropora_digitifera', 'Montastraea_faveolata', 'Beta_vulgaris', 'Spinacia_oleracea', 'Priapulus_caudatus', 'Sorghum_bicolor', 'Zea_mays', 'Eucalyptus_grandis', 'Daucus_carota', 'Ciona_intestinalis', 'Branchiostoma_belcheri', 'Branchiostoma_floridae', 'Helobdella_robusta', 'Capitella_teleta', 'Octopus_bimaculoides', 'Oryza_brachyantha', 'Brachypodium_distachyon', 'Lactuca_sativa', 'Helianthus_annuus', 'Sesamum_indicum', 'Erythranthe_guttata', 'Ipomoea_nil', 'Brugia_malayi', 'Aplysia_californica', 'Oryza_punctata', 'Hordeum_vulgare', 'Citrus_sinensis', 'Citrus_clementina', 'Momordica_charantia', 'Ricinus_communis', 'Populus_trichocarpa', 'Populus_euphratica', 'Callorhinchus_milii', 'Eptatretus_burgeri', 'Petromyzon_marinus', 'Strigamia_maritima', 'Limulus_polyphemus', 'Pristionchus_pacificus', 'Mizuhopecten_yessoensis', 'Oryza_meridionalis', 'Aegilops_tauschii', 'Theobroma_cacao', 'Carica_papaya', 'Cucumis_sativus', 'Cucumis_melo', 'Juglans_regia', 'Morus_notabilis', 'Jatropha_curcas', 'Nicotiana_tomentosiformis', 'Capsicum_annuum', 'Crassostrea_virginica', 'Crassostrea_gigas', 'Oryza_barthii', 'Triticum_urartu', 'Triticum_aestivum', 'Gossypium_raimondii', 'Tarenaya_hassleriana', 'Lupinus_angustifolius', 'Fragaria_vesca', 'Hevea_brasiliensis', 'Manihot_esculenta', 'Nicotiana_tabacum', 'Nicotiana_sylvestris', 'Solanum_tuberosum', 'Solanum_pennellii', 'Lepisosteus_oculatus', 'Latimeria_chalumnae', 'Daphnia_pulex', 'Zootermopsis_nevadensis', 'Varroa_destructor', 'Metaseiulus_occidentalis', 'Parasteatoda_tepidariorum', 'Stegodyphus_mimosarum', 'Caenorhabditis_brenneri', 'Caenorhabditis_elegans', 'Caenorhabditis_japonica', 'Oryza_glaberrima', 'Gossypium_hirsutum', 'Gossypium_arboreum', 'Scleropages_formosus', 'Lepeophtheirus_salmonis', 'Eurytemora_affinis', 'Caenorhabditis_briggsae', 'Caenorhabditis_remanei', 'Oryza_rufipogon', 'Oryza_sativa', 'Eutrema_salsugineum', 'Cicer_arietinum', 'Pyrus_x_bretschneideri', 'Malus_domestica', 'Prunus_avium', 'Nanorana_parkeri', 'Pediculus_humanus', 'Camelina_sativa', 'Capsella_rubella', 'Arabidopsis_thaliana', 'Arabidopsis_lyrata', 'Raphanus_sativus', 'Cajanus_cajan', 'Glycine_max', 'Vigna_radiata', 'Phaseolus_vulgaris', 'Medicago_truncatula', 'Trifolium_pratense', 'Prunus_persica', 'Prunus_mume', 'Clupea_harengus', 'Xenopus_laevis', 'Xenopus_tropicalis', 'Ornithorhynchus_anatinus', 'Orussus_abietinus', 'Brassica_napus', 'Gadus_morhua', 'Esox_lucius', 'Gekko_japonicus', 'Ceratosolen_solmsi', 'Onthophagus_taurus', 'Nilaparvata_lugens', 'Bemisia_tabaci', 'Brassica_rapa', 'Brassica_oleracea', 'Hippocampus_comes', 'Salmo_salar', 'Oncorhynchus_mykiss', 'Ictalurus_punctatus', 'Pygocentrus_nattereri', 'Danio_rerio', 'Pelodiscus_sinensis', 'Monodelphis_domestica', 'Nicrophorus_vespilloides', 'Bombyx_mori', 'Cimex_lectularius', 'Rhodnius_prolixus', 'Acyrthosiphon_pisum', 'Myzus_persicae', 'Cyprinus_carpio', 'Thamnophis_sirtalis', 'Protobothrops_mucrosquamatus', 'Anolis_carolinensis', 'Pogona_vitticeps', 'Struthio_camelus', 'Chrysemys_picta', 'Chelonia_mydas', 'Sarcophilus_harrisii', 'Phascolarctos_cinereus', 'Dasypus_novemcinctus', 'Dufourea_novaeangliae', 'Tribolium_castaneum', 'Dendroctonus_ponderosae', 'Mayetiola_destructor', 'Sinocyclocheilus_rhinocerous', 'Crocodylus_porosus', 'Gavialis_gangeticus', 'Alligator_sinensis', 'Alligator_mississippiensis', 'Habropoda_laboriosa', 'Camponotus_floridanus', 'Linepithema_humile', 'Pseudomyrmex_gracilis', 'Belgica_antarctica', 'Lucilia_cuprina', 'Papilio_polytes', 'Pieris_rapae', 'Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis', 'Condylura_cristata', 'Trichechus_manatus', 'Loxodonta_africana', 'Orycteropus_afer', 'Ceratina_calcarata', 'Musca_domestica', 'Stomoxys_calcitrans', 'Ceratitis_capitata', 'Papilio_machaon', 'Papilio_xuthus', 'Danaus_plexippus', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Numida_meleagris', 'Anser_cygnoides', 'Anas_platyrhynchos', 'Caprimulgus_carolinensis', 'Erinaceus_europaeus', 'Sorex_araneus', 'Oryctolagus_cuniculus', 'Ochotona_princeps', 'Otolemur_garnettii', 'Carlito_syrichta', 'Elephantulus_edwardii', 'Eufriesea_mexicana', 'Pogonomyrmex_barbatus', 'Solenopsis_invicta', 'Monomorium_pharaonis', 'Culex_quinquefasciatus', 'Anopheles_darlingi', 'Anopheles_gambiae', 'Bactrocera_cucurbitae', 'Drosophila_busckii', 'Drosophila_willistoni', 'Bicyclus_anynana', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Coturnix_japonica', 'Tauraco_erythrolophus', 'Cuculus_canorus', 'Calypte_anna', 'Chaetura_pelagica', 'Miniopterus_natalensis', 'Propithecus_coquereli', 'Microcebus_murinus', 'Echinops_telfairi', 'Chrysochloris_asiatica', 'Apis_florea', 'Wasmannia_auropunctata', 'Aedes_albopictus', 'Aedes_aegypti', 'Bactrocera_dorsalis', 'Bactrocera_oleae', 'Drosophila_grimshawi', 'Heliconius_melpomene', 'Melitaea_cinxia', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Meleagris_gallopavo', 'Gallus_gallus', 'Manis_javanica', 'Ceratotherium_simum', 'Vicugna_pacos', 'Sus_scrofa', 'Hipposideros_armiger', 'Rhinolophus_sinicus', 'Rousettus_aegyptiacus', 'Eptesicus_fuscus', 'Heterocephalus_glaber', 'Fukomys_damarensis', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'Apis_dorsata', 'Vollenhovia_emeryi', 'Drosophila_virilis', 'Drosophila_obscura', 'Xiphophorus_maculatus', 'Poecilia_mexicana', 'Acanthisitta_chloris', 'Columba_livia', 'Opisthocomus_hoazin', 'Equus_asinus', 'Camelus_dromedarius', 'Pteropus_vampyrus', 'Pteropus_alecto', 'Myotis_davidii', 'Cavia_porcellus', 'Cavia_aperea', 'Octodon_degus', 'Chinchilla_lanigera', 'Jaculus_jaculus', 'Dipodomys_ordii', 'Castor_canadensis', 'Callithrix_jacchus', 'Aotus_nancymaae', 'Saimiri_boliviensis', 'Cebus_capucinus', 'Nomascus_leucogenys', 'Apis_mellifera', 'Apis_cerana', 'Cyphomyrmex_costatus', 'Drosophila_navojoa', 'Drosophila_miranda', 'Drosophila_ananassae', 'Drosophila_bipectinata', 'Tyto_alba', 'Canis_lupus', 'Equus_caballus', 'Equus_przewalskii', 'Camelus_ferus', 'Camelus_bactrianus', 'Balaenoptera_acutorostrata', 'Odocoileus_virginianus', 'Myotis_brandtii', 'Myotis_lucifugus', 'Nannospalax_galili', 'Chlorocebus_sabaeus', 'Colobus_angolensis', 'Pongo_abelii', 'Atta_cephalotes', 'Drosophila_mojavensis', 'Drosophila_arizonae', 'Drosophila_persimilis', 'Drosophila_pseudoobscura', 'Drosophila_serrata', 'Drosophila_kikkawai', 'Buceros_rhinoceros', 'Merops_nubicus', 'Leptosomus_discolor', 'Melopsittacus_undulatus', 'Nestor_notabilis', 'Lepidothrix_coronata', 'Manacus_vitellinus', 'Corvus_brachyrhynchos', 'Falco_peregrinus', 'Falco_cherrug', 'Aquila_chrysaetos', 'Panthera_tigris', 'Panthera_pardus', 'Felis_catus', 'Acinonyx_jubatus', 'Physeter_catodon', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Gorilla_gorilla', 'Trachymyrmex_zeteki', 'Drosophila_ficusphila', 'Colius_striatus', 'Cariama_cristata', 'Pterocles_gutturalis', 'Gavia_stellata', 'Calidris_pugnax', 'Charadrius_vociferus', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Mustela_putorius', 'Ailuropoda_melanoleuca', 'Lipotes_vexillifer', 'Bubalus_bubalis', 'Pantholops_hodgsonii', 'Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Papio_anubis', 'Macaca_nemestrina', 'Homo_sapiens', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis', 'Drosophila_eugracilis', 'Drosophila_elegans', 'Drosophila_rhopaloa', 'Picoides_pubescens', 'Apaloderma_vittatum', 'Phaethon_lepturus', 'Fulmarus_glacialis', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Tursiops_truncatus', 'Orcinus_orca', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis', 'Pan_troglodytes', 'Pan_paniscus', 'Drosophila_takahashii', 'Drosophila_melanogaster', 'Drosophila_erecta', 'Drosophila_yakuba', 'Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Balearica_regulorum', 'Chlamydotis_macqueenii', 'Eurypyga_helias', 'Mesitornis_unicolor', 'Phalacrocorax_carbo', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Leptonychotes_weddellii', 'Monachus_monachus', 'Bos_mutus', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Drosophila_biarmipes', 'Drosophila_suzukii', 'Drosophila_sechellia', 'Drosophila_simulans', 'Lonchura_striata', 'Taeniopygia_guttata', 'Pelecanus_crispus', 'Bos_taurus', 'Bos_indicus', 'Mus_caroli', 'Egretta_garzetta', 'Nipponia_nippon', 'Mus_musculus', 'Mus_spretus']
+Emiliania_huxleyi
+['Tetrahymena_thermophila', 'Paramecium_tetraurelia', 'Toxoplasma_gondii', 'Hyaloperonospora_arabidopsidis', 'Phaeodactylum_tricornutum', 'Thalassiosira_pseudonana', 'Plasmodium_falciparum', 'Phytophthora_infestans', 'Phytophthora_parasitica', 'Phytophthora_ramorum', 'Phytophthora_sojae', 'Plasmodium_vivax', 'Plasmodium_knowlesi', 'Plasmodium_chabaudi', 'Plasmodium_berghei']
+Chondrus_crispus
+['Galdieria_sulphuraria', 'Cyanidioschyzon_merolae']
+Galdieria_sulphuraria
+['Cyanidioschyzon_merolae']
+Cyanidioschyzon_merolae
+['Galdieria_sulphuraria']
+Bigelowiella_natans
+['Trypanosoma_brucei', 'Leishmania_major']
+Trypanosoma_brucei
+['Leishmania_major']
+Leishmania_major
+['Trypanosoma_brucei']
+Tetrahymena_thermophila
+['Paramecium_tetraurelia']
+Paramecium_tetraurelia
+['Tetrahymena_thermophila']
+Toxoplasma_gondii
+['Plasmodium_falciparum', 'Plasmodium_vivax', 'Plasmodium_knowlesi', 'Plasmodium_chabaudi', 'Plasmodium_berghei']
+Hyaloperonospora_arabidopsidis
+['Phytophthora_infestans', 'Phytophthora_parasitica', 'Phytophthora_ramorum', 'Phytophthora_sojae']
+Phaeodactylum_tricornutum
+['Thalassiosira_pseudonana']
+Thalassiosira_pseudonana
+['Phaeodactylum_tricornutum']
+Dictyostelium_discoideum
+['Entamoeba_histolytica']
+Entamoeba_histolytica
+['Dictyostelium_discoideum']
+Physcomitrella_patens
+['Selaginella_moellendorffii', 'Amborella_trichopoda', 'Nelumbo_nucifera', 'Musa_acuminata', 'Elaeis_guineensis', 'Phoenix_dactylifera', 'Ananas_comosus', 'Vitis_vinifera', 'Beta_vulgaris', 'Spinacia_oleracea', 'Sorghum_bicolor', 'Zea_mays', 'Eucalyptus_grandis', 'Daucus_carota', 'Oryza_brachyantha', 'Brachypodium_distachyon', 'Lactuca_sativa', 'Helianthus_annuus', 'Sesamum_indicum', 'Erythranthe_guttata', 'Ipomoea_nil', 'Oryza_punctata', 'Hordeum_vulgare', 'Citrus_sinensis', 'Citrus_clementina', 'Momordica_charantia', 'Ricinus_communis', 'Populus_trichocarpa', 'Populus_euphratica', 'Oryza_meridionalis', 'Aegilops_tauschii', 'Theobroma_cacao', 'Carica_papaya', 'Cucumis_sativus', 'Cucumis_melo', 'Juglans_regia', 'Morus_notabilis', 'Jatropha_curcas', 'Nicotiana_tomentosiformis', 'Capsicum_annuum', 'Oryza_barthii', 'Triticum_urartu', 'Triticum_aestivum', 'Gossypium_raimondii', 'Tarenaya_hassleriana', 'Lupinus_angustifolius', 'Fragaria_vesca', 'Hevea_brasiliensis', 'Manihot_esculenta', 'Nicotiana_tabacum', 'Nicotiana_sylvestris', 'Solanum_tuberosum', 'Solanum_pennellii', 'Oryza_glaberrima', 'Gossypium_hirsutum', 'Gossypium_arboreum', 'Oryza_rufipogon', 'Oryza_sativa', 'Eutrema_salsugineum', 'Cicer_arietinum', 'Pyrus_x_bretschneideri', 'Malus_domestica', 'Prunus_avium', 'Camelina_sativa', 'Capsella_rubella', 'Arabidopsis_thaliana', 'Arabidopsis_lyrata', 'Raphanus_sativus', 'Cajanus_cajan', 'Glycine_max', 'Vigna_radiata', 'Phaseolus_vulgaris', 'Medicago_truncatula', 'Trifolium_pratense', 'Prunus_persica', 'Prunus_mume', 'Brassica_napus', 'Brassica_rapa', 'Brassica_oleracea']
+Plasmodium_falciparum
+['Plasmodium_vivax', 'Plasmodium_knowlesi', 'Plasmodium_chabaudi', 'Plasmodium_berghei']
+Ustilago_maydis
+['Schizosaccharomyces_pombe', 'Saccharomyces_cerevisiae', 'Fusarium_fujikuroi', 'Aspergillus_clavatus', 'Aspergillus_oryzae', 'Aspergillus_terreus']
+Amphimedon_queenslandica
+['Trichoplax_adhaerens', 'Mnemiopsis_leidyi', 'Echinococcus_granulosus', 'Hydra_vulgaris', 'Nematostella_vectensis', 'Saccoglossus_kowalevskii', 'Acropora_digitifera', 'Montastraea_faveolata', 'Priapulus_caudatus', 'Ciona_intestinalis', 'Branchiostoma_belcheri', 'Branchiostoma_floridae', 'Helobdella_robusta', 'Capitella_teleta', 'Octopus_bimaculoides', 'Brugia_malayi', 'Aplysia_californica', 'Callorhinchus_milii', 'Eptatretus_burgeri', 'Petromyzon_marinus', 'Strigamia_maritima', 'Limulus_polyphemus', 'Pristionchus_pacificus', 'Mizuhopecten_yessoensis', 'Crassostrea_virginica', 'Crassostrea_gigas', 'Lepisosteus_oculatus', 'Latimeria_chalumnae', 'Daphnia_pulex', 'Zootermopsis_nevadensis', 'Varroa_destructor', 'Metaseiulus_occidentalis', 'Parasteatoda_tepidariorum', 'Stegodyphus_mimosarum', 'Caenorhabditis_brenneri', 'Caenorhabditis_elegans', 'Caenorhabditis_japonica', 'Scleropages_formosus', 'Lepeophtheirus_salmonis', 'Eurytemora_affinis', 'Caenorhabditis_briggsae', 'Caenorhabditis_remanei', 'Nanorana_parkeri', 'Pediculus_humanus', 'Clupea_harengus', 'Xenopus_laevis', 'Xenopus_tropicalis', 'Ornithorhynchus_anatinus', 'Orussus_abietinus', 'Gadus_morhua', 'Esox_lucius', 'Gekko_japonicus', 'Ceratosolen_solmsi', 'Onthophagus_taurus', 'Nilaparvata_lugens', 'Bemisia_tabaci', 'Hippocampus_comes', 'Salmo_salar', 'Oncorhynchus_mykiss', 'Ictalurus_punctatus', 'Pygocentrus_nattereri', 'Danio_rerio', 'Pelodiscus_sinensis', 'Monodelphis_domestica', 'Nicrophorus_vespilloides', 'Bombyx_mori', 'Cimex_lectularius', 'Rhodnius_prolixus', 'Acyrthosiphon_pisum', 'Myzus_persicae', 'Cyprinus_carpio', 'Thamnophis_sirtalis', 'Protobothrops_mucrosquamatus', 'Anolis_carolinensis', 'Pogona_vitticeps', 'Struthio_camelus', 'Chrysemys_picta', 'Chelonia_mydas', 'Sarcophilus_harrisii', 'Phascolarctos_cinereus', 'Dasypus_novemcinctus', 'Dufourea_novaeangliae', 'Tribolium_castaneum', 'Dendroctonus_ponderosae', 'Mayetiola_destructor', 'Sinocyclocheilus_rhinocerous', 'Crocodylus_porosus', 'Gavialis_gangeticus', 'Alligator_sinensis', 'Alligator_mississippiensis', 'Habropoda_laboriosa', 'Camponotus_floridanus', 'Linepithema_humile', 'Pseudomyrmex_gracilis', 'Belgica_antarctica', 'Lucilia_cuprina', 'Papilio_polytes', 'Pieris_rapae', 'Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis', 'Condylura_cristata', 'Trichechus_manatus', 'Loxodonta_africana', 'Orycteropus_afer', 'Ceratina_calcarata', 'Musca_domestica', 'Stomoxys_calcitrans', 'Ceratitis_capitata', 'Papilio_machaon', 'Papilio_xuthus', 'Danaus_plexippus', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Numida_meleagris', 'Anser_cygnoides', 'Anas_platyrhynchos', 'Caprimulgus_carolinensis', 'Erinaceus_europaeus', 'Sorex_araneus', 'Oryctolagus_cuniculus', 'Ochotona_princeps', 'Otolemur_garnettii', 'Carlito_syrichta', 'Elephantulus_edwardii', 'Eufriesea_mexicana', 'Pogonomyrmex_barbatus', 'Solenopsis_invicta', 'Monomorium_pharaonis', 'Culex_quinquefasciatus', 'Anopheles_darlingi', 'Anopheles_gambiae', 'Bactrocera_cucurbitae', 'Drosophila_busckii', 'Drosophila_willistoni', 'Bicyclus_anynana', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Coturnix_japonica', 'Tauraco_erythrolophus', 'Cuculus_canorus', 'Calypte_anna', 'Chaetura_pelagica', 'Miniopterus_natalensis', 'Propithecus_coquereli', 'Microcebus_murinus', 'Echinops_telfairi', 'Chrysochloris_asiatica', 'Apis_florea', 'Wasmannia_auropunctata', 'Aedes_albopictus', 'Aedes_aegypti', 'Bactrocera_dorsalis', 'Bactrocera_oleae', 'Drosophila_grimshawi', 'Heliconius_melpomene', 'Melitaea_cinxia', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Meleagris_gallopavo', 'Gallus_gallus', 'Manis_javanica', 'Ceratotherium_simum', 'Vicugna_pacos', 'Sus_scrofa', 'Hipposideros_armiger', 'Rhinolophus_sinicus', 'Rousettus_aegyptiacus', 'Eptesicus_fuscus', 'Heterocephalus_glaber', 'Fukomys_damarensis', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'Apis_dorsata', 'Vollenhovia_emeryi', 'Drosophila_virilis', 'Drosophila_obscura', 'Xiphophorus_maculatus', 'Poecilia_mexicana', 'Acanthisitta_chloris', 'Columba_livia', 'Opisthocomus_hoazin', 'Equus_asinus', 'Camelus_dromedarius', 'Pteropus_vampyrus', 'Pteropus_alecto', 'Myotis_davidii', 'Cavia_porcellus', 'Cavia_aperea', 'Octodon_degus', 'Chinchilla_lanigera', 'Jaculus_jaculus', 'Dipodomys_ordii', 'Castor_canadensis', 'Callithrix_jacchus', 'Aotus_nancymaae', 'Saimiri_boliviensis', 'Cebus_capucinus', 'Nomascus_leucogenys', 'Apis_mellifera', 'Apis_cerana', 'Cyphomyrmex_costatus', 'Drosophila_navojoa', 'Drosophila_miranda', 'Drosophila_ananassae', 'Drosophila_bipectinata', 'Tyto_alba', 'Canis_lupus', 'Equus_caballus', 'Equus_przewalskii', 'Camelus_ferus', 'Camelus_bactrianus', 'Balaenoptera_acutorostrata', 'Odocoileus_virginianus', 'Myotis_brandtii', 'Myotis_lucifugus', 'Nannospalax_galili', 'Chlorocebus_sabaeus', 'Colobus_angolensis', 'Pongo_abelii', 'Atta_cephalotes', 'Drosophila_mojavensis', 'Drosophila_arizonae', 'Drosophila_persimilis', 'Drosophila_pseudoobscura', 'Drosophila_serrata', 'Drosophila_kikkawai', 'Buceros_rhinoceros', 'Merops_nubicus', 'Leptosomus_discolor', 'Melopsittacus_undulatus', 'Nestor_notabilis', 'Lepidothrix_coronata', 'Manacus_vitellinus', 'Corvus_brachyrhynchos', 'Falco_peregrinus', 'Falco_cherrug', 'Aquila_chrysaetos', 'Panthera_tigris', 'Panthera_pardus', 'Felis_catus', 'Acinonyx_jubatus', 'Physeter_catodon', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Gorilla_gorilla', 'Trachymyrmex_zeteki', 'Drosophila_ficusphila', 'Colius_striatus', 'Cariama_cristata', 'Pterocles_gutturalis', 'Gavia_stellata', 'Calidris_pugnax', 'Charadrius_vociferus', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Mustela_putorius', 'Ailuropoda_melanoleuca', 'Lipotes_vexillifer', 'Bubalus_bubalis', 'Pantholops_hodgsonii', 'Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Papio_anubis', 'Macaca_nemestrina', 'Homo_sapiens', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis', 'Drosophila_eugracilis', 'Drosophila_elegans', 'Drosophila_rhopaloa', 'Picoides_pubescens', 'Apaloderma_vittatum', 'Phaethon_lepturus', 'Fulmarus_glacialis', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Tursiops_truncatus', 'Orcinus_orca', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis', 'Pan_troglodytes', 'Pan_paniscus', 'Drosophila_takahashii', 'Drosophila_melanogaster', 'Drosophila_erecta', 'Drosophila_yakuba', 'Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Balearica_regulorum', 'Chlamydotis_macqueenii', 'Eurypyga_helias', 'Mesitornis_unicolor', 'Phalacrocorax_carbo', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Leptonychotes_weddellii', 'Monachus_monachus', 'Bos_mutus', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Drosophila_biarmipes', 'Drosophila_suzukii', 'Drosophila_sechellia', 'Drosophila_simulans', 'Lonchura_striata', 'Taeniopygia_guttata', 'Pelecanus_crispus', 'Bos_taurus', 'Bos_indicus', 'Mus_caroli', 'Egretta_garzetta', 'Nipponia_nippon', 'Mus_musculus', 'Mus_spretus']
+Micromonas_pusilla
+['Ostreococcus_lucimarinus', 'Ostreococcus_tauri']
+Volvox_carteri
+['Chlamydomonas_reinhardtii']
+Chlamydomonas_reinhardtii
+['Volvox_carteri']
+Selaginella_moellendorffii
+['Amborella_trichopoda', 'Nelumbo_nucifera', 'Musa_acuminata', 'Elaeis_guineensis', 'Phoenix_dactylifera', 'Ananas_comosus', 'Vitis_vinifera', 'Beta_vulgaris', 'Spinacia_oleracea', 'Sorghum_bicolor', 'Zea_mays', 'Eucalyptus_grandis', 'Daucus_carota', 'Oryza_brachyantha', 'Brachypodium_distachyon', 'Lactuca_sativa', 'Helianthus_annuus', 'Sesamum_indicum', 'Erythranthe_guttata', 'Ipomoea_nil', 'Oryza_punctata', 'Hordeum_vulgare', 'Citrus_sinensis', 'Citrus_clementina', 'Momordica_charantia', 'Ricinus_communis', 'Populus_trichocarpa', 'Populus_euphratica', 'Oryza_meridionalis', 'Aegilops_tauschii', 'Theobroma_cacao', 'Carica_papaya', 'Cucumis_sativus', 'Cucumis_melo', 'Juglans_regia', 'Morus_notabilis', 'Jatropha_curcas', 'Nicotiana_tomentosiformis', 'Capsicum_annuum', 'Oryza_barthii', 'Triticum_urartu', 'Triticum_aestivum', 'Gossypium_raimondii', 'Tarenaya_hassleriana', 'Lupinus_angustifolius', 'Fragaria_vesca', 'Hevea_brasiliensis', 'Manihot_esculenta', 'Nicotiana_tabacum', 'Nicotiana_sylvestris', 'Solanum_tuberosum', 'Solanum_pennellii', 'Oryza_glaberrima', 'Gossypium_hirsutum', 'Gossypium_arboreum', 'Oryza_rufipogon', 'Oryza_sativa', 'Eutrema_salsugineum', 'Cicer_arietinum', 'Pyrus_x_bretschneideri', 'Malus_domestica', 'Prunus_avium', 'Camelina_sativa', 'Capsella_rubella', 'Arabidopsis_thaliana', 'Arabidopsis_lyrata', 'Raphanus_sativus', 'Cajanus_cajan', 'Glycine_max', 'Vigna_radiata', 'Phaseolus_vulgaris', 'Medicago_truncatula', 'Trifolium_pratense', 'Prunus_persica', 'Prunus_mume', 'Brassica_napus', 'Brassica_rapa', 'Brassica_oleracea']
+Phytophthora_infestans
+['Phytophthora_parasitica']
+Phytophthora_parasitica
+['Phytophthora_infestans']
+Phytophthora_ramorum
+['Phytophthora_sojae']
+Phytophthora_sojae
+['Phytophthora_ramorum']
+Schizosaccharomyces_pombe
+['Saccharomyces_cerevisiae', 'Fusarium_fujikuroi', 'Aspergillus_clavatus', 'Aspergillus_oryzae', 'Aspergillus_terreus']
+Trichoplax_adhaerens
+['Mnemiopsis_leidyi', 'Echinococcus_granulosus', 'Hydra_vulgaris', 'Nematostella_vectensis', 'Saccoglossus_kowalevskii', 'Acropora_digitifera', 'Montastraea_faveolata', 'Priapulus_caudatus', 'Ciona_intestinalis', 'Branchiostoma_belcheri', 'Branchiostoma_floridae', 'Helobdella_robusta', 'Capitella_teleta', 'Octopus_bimaculoides', 'Brugia_malayi', 'Aplysia_californica', 'Callorhinchus_milii', 'Eptatretus_burgeri', 'Petromyzon_marinus', 'Strigamia_maritima', 'Limulus_polyphemus', 'Pristionchus_pacificus', 'Mizuhopecten_yessoensis', 'Crassostrea_virginica', 'Crassostrea_gigas', 'Lepisosteus_oculatus', 'Latimeria_chalumnae', 'Daphnia_pulex', 'Zootermopsis_nevadensis', 'Varroa_destructor', 'Metaseiulus_occidentalis', 'Parasteatoda_tepidariorum', 'Stegodyphus_mimosarum', 'Caenorhabditis_brenneri', 'Caenorhabditis_elegans', 'Caenorhabditis_japonica', 'Scleropages_formosus', 'Lepeophtheirus_salmonis', 'Eurytemora_affinis', 'Caenorhabditis_briggsae', 'Caenorhabditis_remanei', 'Nanorana_parkeri', 'Pediculus_humanus', 'Clupea_harengus', 'Xenopus_laevis', 'Xenopus_tropicalis', 'Ornithorhynchus_anatinus', 'Orussus_abietinus', 'Gadus_morhua', 'Esox_lucius', 'Gekko_japonicus', 'Ceratosolen_solmsi', 'Onthophagus_taurus', 'Nilaparvata_lugens', 'Bemisia_tabaci', 'Hippocampus_comes', 'Salmo_salar', 'Oncorhynchus_mykiss', 'Ictalurus_punctatus', 'Pygocentrus_nattereri', 'Danio_rerio', 'Pelodiscus_sinensis', 'Monodelphis_domestica', 'Nicrophorus_vespilloides', 'Bombyx_mori', 'Cimex_lectularius', 'Rhodnius_prolixus', 'Acyrthosiphon_pisum', 'Myzus_persicae', 'Cyprinus_carpio', 'Thamnophis_sirtalis', 'Protobothrops_mucrosquamatus', 'Anolis_carolinensis', 'Pogona_vitticeps', 'Struthio_camelus', 'Chrysemys_picta', 'Chelonia_mydas', 'Sarcophilus_harrisii', 'Phascolarctos_cinereus', 'Dasypus_novemcinctus', 'Dufourea_novaeangliae', 'Tribolium_castaneum', 'Dendroctonus_ponderosae', 'Mayetiola_destructor', 'Sinocyclocheilus_rhinocerous', 'Crocodylus_porosus', 'Gavialis_gangeticus', 'Alligator_sinensis', 'Alligator_mississippiensis', 'Habropoda_laboriosa', 'Camponotus_floridanus', 'Linepithema_humile', 'Pseudomyrmex_gracilis', 'Belgica_antarctica', 'Lucilia_cuprina', 'Papilio_polytes', 'Pieris_rapae', 'Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis', 'Condylura_cristata', 'Trichechus_manatus', 'Loxodonta_africana', 'Orycteropus_afer', 'Ceratina_calcarata', 'Musca_domestica', 'Stomoxys_calcitrans', 'Ceratitis_capitata', 'Papilio_machaon', 'Papilio_xuthus', 'Danaus_plexippus', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Numida_meleagris', 'Anser_cygnoides', 'Anas_platyrhynchos', 'Caprimulgus_carolinensis', 'Erinaceus_europaeus', 'Sorex_araneus', 'Oryctolagus_cuniculus', 'Ochotona_princeps', 'Otolemur_garnettii', 'Carlito_syrichta', 'Elephantulus_edwardii', 'Eufriesea_mexicana', 'Pogonomyrmex_barbatus', 'Solenopsis_invicta', 'Monomorium_pharaonis', 'Culex_quinquefasciatus', 'Anopheles_darlingi', 'Anopheles_gambiae', 'Bactrocera_cucurbitae', 'Drosophila_busckii', 'Drosophila_willistoni', 'Bicyclus_anynana', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Coturnix_japonica', 'Tauraco_erythrolophus', 'Cuculus_canorus', 'Calypte_anna', 'Chaetura_pelagica', 'Miniopterus_natalensis', 'Propithecus_coquereli', 'Microcebus_murinus', 'Echinops_telfairi', 'Chrysochloris_asiatica', 'Apis_florea', 'Wasmannia_auropunctata', 'Aedes_albopictus', 'Aedes_aegypti', 'Bactrocera_dorsalis', 'Bactrocera_oleae', 'Drosophila_grimshawi', 'Heliconius_melpomene', 'Melitaea_cinxia', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Meleagris_gallopavo', 'Gallus_gallus', 'Manis_javanica', 'Ceratotherium_simum', 'Vicugna_pacos', 'Sus_scrofa', 'Hipposideros_armiger', 'Rhinolophus_sinicus', 'Rousettus_aegyptiacus', 'Eptesicus_fuscus', 'Heterocephalus_glaber', 'Fukomys_damarensis', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'Apis_dorsata', 'Vollenhovia_emeryi', 'Drosophila_virilis', 'Drosophila_obscura', 'Xiphophorus_maculatus', 'Poecilia_mexicana', 'Acanthisitta_chloris', 'Columba_livia', 'Opisthocomus_hoazin', 'Equus_asinus', 'Camelus_dromedarius', 'Pteropus_vampyrus', 'Pteropus_alecto', 'Myotis_davidii', 'Cavia_porcellus', 'Cavia_aperea', 'Octodon_degus', 'Chinchilla_lanigera', 'Jaculus_jaculus', 'Dipodomys_ordii', 'Castor_canadensis', 'Callithrix_jacchus', 'Aotus_nancymaae', 'Saimiri_boliviensis', 'Cebus_capucinus', 'Nomascus_leucogenys', 'Apis_mellifera', 'Apis_cerana', 'Cyphomyrmex_costatus', 'Drosophila_navojoa', 'Drosophila_miranda', 'Drosophila_ananassae', 'Drosophila_bipectinata', 'Tyto_alba', 'Canis_lupus', 'Equus_caballus', 'Equus_przewalskii', 'Camelus_ferus', 'Camelus_bactrianus', 'Balaenoptera_acutorostrata', 'Odocoileus_virginianus', 'Myotis_brandtii', 'Myotis_lucifugus', 'Nannospalax_galili', 'Chlorocebus_sabaeus', 'Colobus_angolensis', 'Pongo_abelii', 'Atta_cephalotes', 'Drosophila_mojavensis', 'Drosophila_arizonae', 'Drosophila_persimilis', 'Drosophila_pseudoobscura', 'Drosophila_serrata', 'Drosophila_kikkawai', 'Buceros_rhinoceros', 'Merops_nubicus', 'Leptosomus_discolor', 'Melopsittacus_undulatus', 'Nestor_notabilis', 'Lepidothrix_coronata', 'Manacus_vitellinus', 'Corvus_brachyrhynchos', 'Falco_peregrinus', 'Falco_cherrug', 'Aquila_chrysaetos', 'Panthera_tigris', 'Panthera_pardus', 'Felis_catus', 'Acinonyx_jubatus', 'Physeter_catodon', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Gorilla_gorilla', 'Trachymyrmex_zeteki', 'Drosophila_ficusphila', 'Colius_striatus', 'Cariama_cristata', 'Pterocles_gutturalis', 'Gavia_stellata', 'Calidris_pugnax', 'Charadrius_vociferus', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Mustela_putorius', 'Ailuropoda_melanoleuca', 'Lipotes_vexillifer', 'Bubalus_bubalis', 'Pantholops_hodgsonii', 'Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Papio_anubis', 'Macaca_nemestrina', 'Homo_sapiens', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis', 'Drosophila_eugracilis', 'Drosophila_elegans', 'Drosophila_rhopaloa', 'Picoides_pubescens', 'Apaloderma_vittatum', 'Phaethon_lepturus', 'Fulmarus_glacialis', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Tursiops_truncatus', 'Orcinus_orca', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis', 'Pan_troglodytes', 'Pan_paniscus', 'Drosophila_takahashii', 'Drosophila_melanogaster', 'Drosophila_erecta', 'Drosophila_yakuba', 'Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Balearica_regulorum', 'Chlamydotis_macqueenii', 'Eurypyga_helias', 'Mesitornis_unicolor', 'Phalacrocorax_carbo', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Leptonychotes_weddellii', 'Monachus_monachus', 'Bos_mutus', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Drosophila_biarmipes', 'Drosophila_suzukii', 'Drosophila_sechellia', 'Drosophila_simulans', 'Lonchura_striata', 'Taeniopygia_guttata', 'Pelecanus_crispus', 'Bos_taurus', 'Bos_indicus', 'Mus_caroli', 'Egretta_garzetta', 'Nipponia_nippon', 'Mus_musculus', 'Mus_spretus']
+Ostreococcus_lucimarinus
+['Ostreococcus_tauri']
+Ostreococcus_tauri
+['Ostreococcus_lucimarinus']
+Amborella_trichopoda
+['Nelumbo_nucifera', 'Musa_acuminata', 'Elaeis_guineensis', 'Phoenix_dactylifera', 'Ananas_comosus', 'Vitis_vinifera', 'Beta_vulgaris', 'Spinacia_oleracea', 'Sorghum_bicolor', 'Zea_mays', 'Eucalyptus_grandis', 'Daucus_carota', 'Oryza_brachyantha', 'Brachypodium_distachyon', 'Lactuca_sativa', 'Helianthus_annuus', 'Sesamum_indicum', 'Erythranthe_guttata', 'Ipomoea_nil', 'Oryza_punctata', 'Hordeum_vulgare', 'Citrus_sinensis', 'Citrus_clementina', 'Momordica_charantia', 'Ricinus_communis', 'Populus_trichocarpa', 'Populus_euphratica', 'Oryza_meridionalis', 'Aegilops_tauschii', 'Theobroma_cacao', 'Carica_papaya', 'Cucumis_sativus', 'Cucumis_melo', 'Juglans_regia', 'Morus_notabilis', 'Jatropha_curcas', 'Nicotiana_tomentosiformis', 'Capsicum_annuum', 'Oryza_barthii', 'Triticum_urartu', 'Triticum_aestivum', 'Gossypium_raimondii', 'Tarenaya_hassleriana', 'Lupinus_angustifolius', 'Fragaria_vesca', 'Hevea_brasiliensis', 'Manihot_esculenta', 'Nicotiana_tabacum', 'Nicotiana_sylvestris', 'Solanum_tuberosum', 'Solanum_pennellii', 'Oryza_glaberrima', 'Gossypium_hirsutum', 'Gossypium_arboreum', 'Oryza_rufipogon', 'Oryza_sativa', 'Eutrema_salsugineum', 'Cicer_arietinum', 'Pyrus_x_bretschneideri', 'Malus_domestica', 'Prunus_avium', 'Camelina_sativa', 'Capsella_rubella', 'Arabidopsis_thaliana', 'Arabidopsis_lyrata', 'Raphanus_sativus', 'Cajanus_cajan', 'Glycine_max', 'Vigna_radiata', 'Phaseolus_vulgaris', 'Medicago_truncatula', 'Trifolium_pratense', 'Prunus_persica', 'Prunus_mume', 'Brassica_napus', 'Brassica_rapa', 'Brassica_oleracea']
+Plasmodium_vivax
+['Plasmodium_knowlesi']
+Plasmodium_knowlesi
+['Plasmodium_vivax']
+Plasmodium_chabaudi
+['Plasmodium_berghei']
+Plasmodium_berghei
+['Plasmodium_chabaudi']
+Saccharomyces_cerevisiae
+['Fusarium_fujikuroi', 'Aspergillus_clavatus', 'Aspergillus_oryzae', 'Aspergillus_terreus']
+Mnemiopsis_leidyi
+['Echinococcus_granulosus', 'Hydra_vulgaris', 'Nematostella_vectensis', 'Saccoglossus_kowalevskii', 'Acropora_digitifera', 'Montastraea_faveolata', 'Priapulus_caudatus', 'Ciona_intestinalis', 'Branchiostoma_belcheri', 'Branchiostoma_floridae', 'Helobdella_robusta', 'Capitella_teleta', 'Octopus_bimaculoides', 'Brugia_malayi', 'Aplysia_californica', 'Callorhinchus_milii', 'Eptatretus_burgeri', 'Petromyzon_marinus', 'Strigamia_maritima', 'Limulus_polyphemus', 'Pristionchus_pacificus', 'Mizuhopecten_yessoensis', 'Crassostrea_virginica', 'Crassostrea_gigas', 'Lepisosteus_oculatus', 'Latimeria_chalumnae', 'Daphnia_pulex', 'Zootermopsis_nevadensis', 'Varroa_destructor', 'Metaseiulus_occidentalis', 'Parasteatoda_tepidariorum', 'Stegodyphus_mimosarum', 'Caenorhabditis_brenneri', 'Caenorhabditis_elegans', 'Caenorhabditis_japonica', 'Scleropages_formosus', 'Lepeophtheirus_salmonis', 'Eurytemora_affinis', 'Caenorhabditis_briggsae', 'Caenorhabditis_remanei', 'Nanorana_parkeri', 'Pediculus_humanus', 'Clupea_harengus', 'Xenopus_laevis', 'Xenopus_tropicalis', 'Ornithorhynchus_anatinus', 'Orussus_abietinus', 'Gadus_morhua', 'Esox_lucius', 'Gekko_japonicus', 'Ceratosolen_solmsi', 'Onthophagus_taurus', 'Nilaparvata_lugens', 'Bemisia_tabaci', 'Hippocampus_comes', 'Salmo_salar', 'Oncorhynchus_mykiss', 'Ictalurus_punctatus', 'Pygocentrus_nattereri', 'Danio_rerio', 'Pelodiscus_sinensis', 'Monodelphis_domestica', 'Nicrophorus_vespilloides', 'Bombyx_mori', 'Cimex_lectularius', 'Rhodnius_prolixus', 'Acyrthosiphon_pisum', 'Myzus_persicae', 'Cyprinus_carpio', 'Thamnophis_sirtalis', 'Protobothrops_mucrosquamatus', 'Anolis_carolinensis', 'Pogona_vitticeps', 'Struthio_camelus', 'Chrysemys_picta', 'Chelonia_mydas', 'Sarcophilus_harrisii', 'Phascolarctos_cinereus', 'Dasypus_novemcinctus', 'Dufourea_novaeangliae', 'Tribolium_castaneum', 'Dendroctonus_ponderosae', 'Mayetiola_destructor', 'Sinocyclocheilus_rhinocerous', 'Crocodylus_porosus', 'Gavialis_gangeticus', 'Alligator_sinensis', 'Alligator_mississippiensis', 'Habropoda_laboriosa', 'Camponotus_floridanus', 'Linepithema_humile', 'Pseudomyrmex_gracilis', 'Belgica_antarctica', 'Lucilia_cuprina', 'Papilio_polytes', 'Pieris_rapae', 'Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis', 'Condylura_cristata', 'Trichechus_manatus', 'Loxodonta_africana', 'Orycteropus_afer', 'Ceratina_calcarata', 'Musca_domestica', 'Stomoxys_calcitrans', 'Ceratitis_capitata', 'Papilio_machaon', 'Papilio_xuthus', 'Danaus_plexippus', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Numida_meleagris', 'Anser_cygnoides', 'Anas_platyrhynchos', 'Caprimulgus_carolinensis', 'Erinaceus_europaeus', 'Sorex_araneus', 'Oryctolagus_cuniculus', 'Ochotona_princeps', 'Otolemur_garnettii', 'Carlito_syrichta', 'Elephantulus_edwardii', 'Eufriesea_mexicana', 'Pogonomyrmex_barbatus', 'Solenopsis_invicta', 'Monomorium_pharaonis', 'Culex_quinquefasciatus', 'Anopheles_darlingi', 'Anopheles_gambiae', 'Bactrocera_cucurbitae', 'Drosophila_busckii', 'Drosophila_willistoni', 'Bicyclus_anynana', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Coturnix_japonica', 'Tauraco_erythrolophus', 'Cuculus_canorus', 'Calypte_anna', 'Chaetura_pelagica', 'Miniopterus_natalensis', 'Propithecus_coquereli', 'Microcebus_murinus', 'Echinops_telfairi', 'Chrysochloris_asiatica', 'Apis_florea', 'Wasmannia_auropunctata', 'Aedes_albopictus', 'Aedes_aegypti', 'Bactrocera_dorsalis', 'Bactrocera_oleae', 'Drosophila_grimshawi', 'Heliconius_melpomene', 'Melitaea_cinxia', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Meleagris_gallopavo', 'Gallus_gallus', 'Manis_javanica', 'Ceratotherium_simum', 'Vicugna_pacos', 'Sus_scrofa', 'Hipposideros_armiger', 'Rhinolophus_sinicus', 'Rousettus_aegyptiacus', 'Eptesicus_fuscus', 'Heterocephalus_glaber', 'Fukomys_damarensis', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'Apis_dorsata', 'Vollenhovia_emeryi', 'Drosophila_virilis', 'Drosophila_obscura', 'Xiphophorus_maculatus', 'Poecilia_mexicana', 'Acanthisitta_chloris', 'Columba_livia', 'Opisthocomus_hoazin', 'Equus_asinus', 'Camelus_dromedarius', 'Pteropus_vampyrus', 'Pteropus_alecto', 'Myotis_davidii', 'Cavia_porcellus', 'Cavia_aperea', 'Octodon_degus', 'Chinchilla_lanigera', 'Jaculus_jaculus', 'Dipodomys_ordii', 'Castor_canadensis', 'Callithrix_jacchus', 'Aotus_nancymaae', 'Saimiri_boliviensis', 'Cebus_capucinus', 'Nomascus_leucogenys', 'Apis_mellifera', 'Apis_cerana', 'Cyphomyrmex_costatus', 'Drosophila_navojoa', 'Drosophila_miranda', 'Drosophila_ananassae', 'Drosophila_bipectinata', 'Tyto_alba', 'Canis_lupus', 'Equus_caballus', 'Equus_przewalskii', 'Camelus_ferus', 'Camelus_bactrianus', 'Balaenoptera_acutorostrata', 'Odocoileus_virginianus', 'Myotis_brandtii', 'Myotis_lucifugus', 'Nannospalax_galili', 'Chlorocebus_sabaeus', 'Colobus_angolensis', 'Pongo_abelii', 'Atta_cephalotes', 'Drosophila_mojavensis', 'Drosophila_arizonae', 'Drosophila_persimilis', 'Drosophila_pseudoobscura', 'Drosophila_serrata', 'Drosophila_kikkawai', 'Buceros_rhinoceros', 'Merops_nubicus', 'Leptosomus_discolor', 'Melopsittacus_undulatus', 'Nestor_notabilis', 'Lepidothrix_coronata', 'Manacus_vitellinus', 'Corvus_brachyrhynchos', 'Falco_peregrinus', 'Falco_cherrug', 'Aquila_chrysaetos', 'Panthera_tigris', 'Panthera_pardus', 'Felis_catus', 'Acinonyx_jubatus', 'Physeter_catodon', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Gorilla_gorilla', 'Trachymyrmex_zeteki', 'Drosophila_ficusphila', 'Colius_striatus', 'Cariama_cristata', 'Pterocles_gutturalis', 'Gavia_stellata', 'Calidris_pugnax', 'Charadrius_vociferus', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Mustela_putorius', 'Ailuropoda_melanoleuca', 'Lipotes_vexillifer', 'Bubalus_bubalis', 'Pantholops_hodgsonii', 'Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Papio_anubis', 'Macaca_nemestrina', 'Homo_sapiens', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis', 'Drosophila_eugracilis', 'Drosophila_elegans', 'Drosophila_rhopaloa', 'Picoides_pubescens', 'Apaloderma_vittatum', 'Phaethon_lepturus', 'Fulmarus_glacialis', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Tursiops_truncatus', 'Orcinus_orca', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis', 'Pan_troglodytes', 'Pan_paniscus', 'Drosophila_takahashii', 'Drosophila_melanogaster', 'Drosophila_erecta', 'Drosophila_yakuba', 'Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Balearica_regulorum', 'Chlamydotis_macqueenii', 'Eurypyga_helias', 'Mesitornis_unicolor', 'Phalacrocorax_carbo', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Leptonychotes_weddellii', 'Monachus_monachus', 'Bos_mutus', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Drosophila_biarmipes', 'Drosophila_suzukii', 'Drosophila_sechellia', 'Drosophila_simulans', 'Lonchura_striata', 'Taeniopygia_guttata', 'Pelecanus_crispus', 'Bos_taurus', 'Bos_indicus', 'Mus_caroli', 'Egretta_garzetta', 'Nipponia_nippon', 'Mus_musculus', 'Mus_spretus']
+Fusarium_fujikuroi
+['Aspergillus_clavatus', 'Aspergillus_oryzae', 'Aspergillus_terreus']
+Nelumbo_nucifera
+['Vitis_vinifera', 'Beta_vulgaris', 'Spinacia_oleracea', 'Eucalyptus_grandis', 'Daucus_carota', 'Lactuca_sativa', 'Helianthus_annuus', 'Sesamum_indicum', 'Erythranthe_guttata', 'Ipomoea_nil', 'Citrus_sinensis', 'Citrus_clementina', 'Momordica_charantia', 'Ricinus_communis', 'Populus_trichocarpa', 'Populus_euphratica', 'Theobroma_cacao', 'Carica_papaya', 'Cucumis_sativus', 'Cucumis_melo', 'Juglans_regia', 'Morus_notabilis', 'Jatropha_curcas', 'Nicotiana_tomentosiformis', 'Capsicum_annuum', 'Gossypium_raimondii', 'Tarenaya_hassleriana', 'Lupinus_angustifolius', 'Fragaria_vesca', 'Hevea_brasiliensis', 'Manihot_esculenta', 'Nicotiana_tabacum', 'Nicotiana_sylvestris', 'Solanum_tuberosum', 'Solanum_pennellii', 'Gossypium_hirsutum', 'Gossypium_arboreum', 'Eutrema_salsugineum', 'Cicer_arietinum', 'Pyrus_x_bretschneideri', 'Malus_domestica', 'Prunus_avium', 'Camelina_sativa', 'Capsella_rubella', 'Arabidopsis_thaliana', 'Arabidopsis_lyrata', 'Raphanus_sativus', 'Cajanus_cajan', 'Glycine_max', 'Vigna_radiata', 'Phaseolus_vulgaris', 'Medicago_truncatula', 'Trifolium_pratense', 'Prunus_persica', 'Prunus_mume', 'Brassica_napus', 'Brassica_rapa', 'Brassica_oleracea']
+Aspergillus_clavatus
+['Aspergillus_oryzae', 'Aspergillus_terreus']
+Echinococcus_granulosus
+['Saccoglossus_kowalevskii', 'Priapulus_caudatus', 'Ciona_intestinalis', 'Branchiostoma_belcheri', 'Branchiostoma_floridae', 'Helobdella_robusta', 'Capitella_teleta', 'Octopus_bimaculoides', 'Brugia_malayi', 'Aplysia_californica', 'Callorhinchus_milii', 'Eptatretus_burgeri', 'Petromyzon_marinus', 'Strigamia_maritima', 'Limulus_polyphemus', 'Pristionchus_pacificus', 'Mizuhopecten_yessoensis', 'Crassostrea_virginica', 'Crassostrea_gigas', 'Lepisosteus_oculatus', 'Latimeria_chalumnae', 'Daphnia_pulex', 'Zootermopsis_nevadensis', 'Varroa_destructor', 'Metaseiulus_occidentalis', 'Parasteatoda_tepidariorum', 'Stegodyphus_mimosarum', 'Caenorhabditis_brenneri', 'Caenorhabditis_elegans', 'Caenorhabditis_japonica', 'Scleropages_formosus', 'Lepeophtheirus_salmonis', 'Eurytemora_affinis', 'Caenorhabditis_briggsae', 'Caenorhabditis_remanei', 'Nanorana_parkeri', 'Pediculus_humanus', 'Clupea_harengus', 'Xenopus_laevis', 'Xenopus_tropicalis', 'Ornithorhynchus_anatinus', 'Orussus_abietinus', 'Gadus_morhua', 'Esox_lucius', 'Gekko_japonicus', 'Ceratosolen_solmsi', 'Onthophagus_taurus', 'Nilaparvata_lugens', 'Bemisia_tabaci', 'Hippocampus_comes', 'Salmo_salar', 'Oncorhynchus_mykiss', 'Ictalurus_punctatus', 'Pygocentrus_nattereri', 'Danio_rerio', 'Pelodiscus_sinensis', 'Monodelphis_domestica', 'Nicrophorus_vespilloides', 'Bombyx_mori', 'Cimex_lectularius', 'Rhodnius_prolixus', 'Acyrthosiphon_pisum', 'Myzus_persicae', 'Cyprinus_carpio', 'Thamnophis_sirtalis', 'Protobothrops_mucrosquamatus', 'Anolis_carolinensis', 'Pogona_vitticeps', 'Struthio_camelus', 'Chrysemys_picta', 'Chelonia_mydas', 'Sarcophilus_harrisii', 'Phascolarctos_cinereus', 'Dasypus_novemcinctus', 'Dufourea_novaeangliae', 'Tribolium_castaneum', 'Dendroctonus_ponderosae', 'Mayetiola_destructor', 'Sinocyclocheilus_rhinocerous', 'Crocodylus_porosus', 'Gavialis_gangeticus', 'Alligator_sinensis', 'Alligator_mississippiensis', 'Habropoda_laboriosa', 'Camponotus_floridanus', 'Linepithema_humile', 'Pseudomyrmex_gracilis', 'Belgica_antarctica', 'Lucilia_cuprina', 'Papilio_polytes', 'Pieris_rapae', 'Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis', 'Condylura_cristata', 'Trichechus_manatus', 'Loxodonta_africana', 'Orycteropus_afer', 'Ceratina_calcarata', 'Musca_domestica', 'Stomoxys_calcitrans', 'Ceratitis_capitata', 'Papilio_machaon', 'Papilio_xuthus', 'Danaus_plexippus', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Numida_meleagris', 'Anser_cygnoides', 'Anas_platyrhynchos', 'Caprimulgus_carolinensis', 'Erinaceus_europaeus', 'Sorex_araneus', 'Oryctolagus_cuniculus', 'Ochotona_princeps', 'Otolemur_garnettii', 'Carlito_syrichta', 'Elephantulus_edwardii', 'Eufriesea_mexicana', 'Pogonomyrmex_barbatus', 'Solenopsis_invicta', 'Monomorium_pharaonis', 'Culex_quinquefasciatus', 'Anopheles_darlingi', 'Anopheles_gambiae', 'Bactrocera_cucurbitae', 'Drosophila_busckii', 'Drosophila_willistoni', 'Bicyclus_anynana', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Coturnix_japonica', 'Tauraco_erythrolophus', 'Cuculus_canorus', 'Calypte_anna', 'Chaetura_pelagica', 'Miniopterus_natalensis', 'Propithecus_coquereli', 'Microcebus_murinus', 'Echinops_telfairi', 'Chrysochloris_asiatica', 'Apis_florea', 'Wasmannia_auropunctata', 'Aedes_albopictus', 'Aedes_aegypti', 'Bactrocera_dorsalis', 'Bactrocera_oleae', 'Drosophila_grimshawi', 'Heliconius_melpomene', 'Melitaea_cinxia', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Meleagris_gallopavo', 'Gallus_gallus', 'Manis_javanica', 'Ceratotherium_simum', 'Vicugna_pacos', 'Sus_scrofa', 'Hipposideros_armiger', 'Rhinolophus_sinicus', 'Rousettus_aegyptiacus', 'Eptesicus_fuscus', 'Heterocephalus_glaber', 'Fukomys_damarensis', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'Apis_dorsata', 'Vollenhovia_emeryi', 'Drosophila_virilis', 'Drosophila_obscura', 'Xiphophorus_maculatus', 'Poecilia_mexicana', 'Acanthisitta_chloris', 'Columba_livia', 'Opisthocomus_hoazin', 'Equus_asinus', 'Camelus_dromedarius', 'Pteropus_vampyrus', 'Pteropus_alecto', 'Myotis_davidii', 'Cavia_porcellus', 'Cavia_aperea', 'Octodon_degus', 'Chinchilla_lanigera', 'Jaculus_jaculus', 'Dipodomys_ordii', 'Castor_canadensis', 'Callithrix_jacchus', 'Aotus_nancymaae', 'Saimiri_boliviensis', 'Cebus_capucinus', 'Nomascus_leucogenys', 'Apis_mellifera', 'Apis_cerana', 'Cyphomyrmex_costatus', 'Drosophila_navojoa', 'Drosophila_miranda', 'Drosophila_ananassae', 'Drosophila_bipectinata', 'Tyto_alba', 'Canis_lupus', 'Equus_caballus', 'Equus_przewalskii', 'Camelus_ferus', 'Camelus_bactrianus', 'Balaenoptera_acutorostrata', 'Odocoileus_virginianus', 'Myotis_brandtii', 'Myotis_lucifugus', 'Nannospalax_galili', 'Chlorocebus_sabaeus', 'Colobus_angolensis', 'Pongo_abelii', 'Atta_cephalotes', 'Drosophila_mojavensis', 'Drosophila_arizonae', 'Drosophila_persimilis', 'Drosophila_pseudoobscura', 'Drosophila_serrata', 'Drosophila_kikkawai', 'Buceros_rhinoceros', 'Merops_nubicus', 'Leptosomus_discolor', 'Melopsittacus_undulatus', 'Nestor_notabilis', 'Lepidothrix_coronata', 'Manacus_vitellinus', 'Corvus_brachyrhynchos', 'Falco_peregrinus', 'Falco_cherrug', 'Aquila_chrysaetos', 'Panthera_tigris', 'Panthera_pardus', 'Felis_catus', 'Acinonyx_jubatus', 'Physeter_catodon', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Gorilla_gorilla', 'Trachymyrmex_zeteki', 'Drosophila_ficusphila', 'Colius_striatus', 'Cariama_cristata', 'Pterocles_gutturalis', 'Gavia_stellata', 'Calidris_pugnax', 'Charadrius_vociferus', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Mustela_putorius', 'Ailuropoda_melanoleuca', 'Lipotes_vexillifer', 'Bubalus_bubalis', 'Pantholops_hodgsonii', 'Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Papio_anubis', 'Macaca_nemestrina', 'Homo_sapiens', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis', 'Drosophila_eugracilis', 'Drosophila_elegans', 'Drosophila_rhopaloa', 'Picoides_pubescens', 'Apaloderma_vittatum', 'Phaethon_lepturus', 'Fulmarus_glacialis', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Tursiops_truncatus', 'Orcinus_orca', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis', 'Pan_troglodytes', 'Pan_paniscus', 'Drosophila_takahashii', 'Drosophila_melanogaster', 'Drosophila_erecta', 'Drosophila_yakuba', 'Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Balearica_regulorum', 'Chlamydotis_macqueenii', 'Eurypyga_helias', 'Mesitornis_unicolor', 'Phalacrocorax_carbo', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Leptonychotes_weddellii', 'Monachus_monachus', 'Bos_mutus', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Drosophila_biarmipes', 'Drosophila_suzukii', 'Drosophila_sechellia', 'Drosophila_simulans', 'Lonchura_striata', 'Taeniopygia_guttata', 'Pelecanus_crispus', 'Bos_taurus', 'Bos_indicus', 'Mus_caroli', 'Egretta_garzetta', 'Nipponia_nippon', 'Mus_musculus', 'Mus_spretus']
+Hydra_vulgaris
+['Nematostella_vectensis', 'Acropora_digitifera', 'Montastraea_faveolata']
+Musa_acuminata
+['Ananas_comosus', 'Sorghum_bicolor', 'Zea_mays', 'Oryza_brachyantha', 'Brachypodium_distachyon', 'Oryza_punctata', 'Hordeum_vulgare', 'Oryza_meridionalis', 'Aegilops_tauschii', 'Oryza_barthii', 'Triticum_urartu', 'Triticum_aestivum', 'Oryza_glaberrima', 'Oryza_rufipogon', 'Oryza_sativa']
+Elaeis_guineensis
+['Phoenix_dactylifera']
+Phoenix_dactylifera
+['Elaeis_guineensis']
+Aspergillus_oryzae
+['Aspergillus_terreus']
+Aspergillus_terreus
+['Aspergillus_oryzae']
+Nematostella_vectensis
+['Acropora_digitifera', 'Montastraea_faveolata']
+Ananas_comosus
+['Sorghum_bicolor', 'Zea_mays', 'Oryza_brachyantha', 'Brachypodium_distachyon', 'Oryza_punctata', 'Hordeum_vulgare', 'Oryza_meridionalis', 'Aegilops_tauschii', 'Oryza_barthii', 'Triticum_urartu', 'Triticum_aestivum', 'Oryza_glaberrima', 'Oryza_rufipogon', 'Oryza_sativa']
+Vitis_vinifera
+['Eucalyptus_grandis', 'Citrus_sinensis', 'Citrus_clementina', 'Momordica_charantia', 'Ricinus_communis', 'Populus_trichocarpa', 'Populus_euphratica', 'Theobroma_cacao', 'Carica_papaya', 'Cucumis_sativus', 'Cucumis_melo', 'Juglans_regia', 'Morus_notabilis', 'Jatropha_curcas', 'Gossypium_raimondii', 'Tarenaya_hassleriana', 'Lupinus_angustifolius', 'Fragaria_vesca', 'Hevea_brasiliensis', 'Manihot_esculenta', 'Gossypium_hirsutum', 'Gossypium_arboreum', 'Eutrema_salsugineum', 'Cicer_arietinum', 'Pyrus_x_bretschneideri', 'Malus_domestica', 'Prunus_avium', 'Camelina_sativa', 'Capsella_rubella', 'Arabidopsis_thaliana', 'Arabidopsis_lyrata', 'Raphanus_sativus', 'Cajanus_cajan', 'Glycine_max', 'Vigna_radiata', 'Phaseolus_vulgaris', 'Medicago_truncatula', 'Trifolium_pratense', 'Prunus_persica', 'Prunus_mume', 'Brassica_napus', 'Brassica_rapa', 'Brassica_oleracea']
+Saccoglossus_kowalevskii
+['Ciona_intestinalis', 'Branchiostoma_belcheri', 'Branchiostoma_floridae', 'Callorhinchus_milii', 'Eptatretus_burgeri', 'Petromyzon_marinus', 'Lepisosteus_oculatus', 'Latimeria_chalumnae', 'Scleropages_formosus', 'Nanorana_parkeri', 'Clupea_harengus', 'Xenopus_laevis', 'Xenopus_tropicalis', 'Ornithorhynchus_anatinus', 'Gadus_morhua', 'Esox_lucius', 'Gekko_japonicus', 'Hippocampus_comes', 'Salmo_salar', 'Oncorhynchus_mykiss', 'Ictalurus_punctatus', 'Pygocentrus_nattereri', 'Danio_rerio', 'Pelodiscus_sinensis', 'Monodelphis_domestica', 'Cyprinus_carpio', 'Thamnophis_sirtalis', 'Protobothrops_mucrosquamatus', 'Anolis_carolinensis', 'Pogona_vitticeps', 'Struthio_camelus', 'Chrysemys_picta', 'Chelonia_mydas', 'Sarcophilus_harrisii', 'Phascolarctos_cinereus', 'Dasypus_novemcinctus', 'Sinocyclocheilus_rhinocerous', 'Crocodylus_porosus', 'Gavialis_gangeticus', 'Alligator_sinensis', 'Alligator_mississippiensis', 'Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis', 'Condylura_cristata', 'Trichechus_manatus', 'Loxodonta_africana', 'Orycteropus_afer', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Numida_meleagris', 'Anser_cygnoides', 'Anas_platyrhynchos', 'Caprimulgus_carolinensis', 'Erinaceus_europaeus', 'Sorex_araneus', 'Oryctolagus_cuniculus', 'Ochotona_princeps', 'Otolemur_garnettii', 'Carlito_syrichta', 'Elephantulus_edwardii', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Coturnix_japonica', 'Tauraco_erythrolophus', 'Cuculus_canorus', 'Calypte_anna', 'Chaetura_pelagica', 'Miniopterus_natalensis', 'Propithecus_coquereli', 'Microcebus_murinus', 'Echinops_telfairi', 'Chrysochloris_asiatica', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Meleagris_gallopavo', 'Gallus_gallus', 'Manis_javanica', 'Ceratotherium_simum', 'Vicugna_pacos', 'Sus_scrofa', 'Hipposideros_armiger', 'Rhinolophus_sinicus', 'Rousettus_aegyptiacus', 'Eptesicus_fuscus', 'Heterocephalus_glaber', 'Fukomys_damarensis', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'Xiphophorus_maculatus', 'Poecilia_mexicana', 'Acanthisitta_chloris', 'Columba_livia', 'Opisthocomus_hoazin', 'Equus_asinus', 'Camelus_dromedarius', 'Pteropus_vampyrus', 'Pteropus_alecto', 'Myotis_davidii', 'Cavia_porcellus', 'Cavia_aperea', 'Octodon_degus', 'Chinchilla_lanigera', 'Jaculus_jaculus', 'Dipodomys_ordii', 'Castor_canadensis', 'Callithrix_jacchus', 'Aotus_nancymaae', 'Saimiri_boliviensis', 'Cebus_capucinus', 'Nomascus_leucogenys', 'Tyto_alba', 'Canis_lupus', 'Equus_caballus', 'Equus_przewalskii', 'Camelus_ferus', 'Camelus_bactrianus', 'Balaenoptera_acutorostrata', 'Odocoileus_virginianus', 'Myotis_brandtii', 'Myotis_lucifugus', 'Nannospalax_galili', 'Chlorocebus_sabaeus', 'Colobus_angolensis', 'Pongo_abelii', 'Buceros_rhinoceros', 'Merops_nubicus', 'Leptosomus_discolor', 'Melopsittacus_undulatus', 'Nestor_notabilis', 'Lepidothrix_coronata', 'Manacus_vitellinus', 'Corvus_brachyrhynchos', 'Falco_peregrinus', 'Falco_cherrug', 'Aquila_chrysaetos', 'Panthera_tigris', 'Panthera_pardus', 'Felis_catus', 'Acinonyx_jubatus', 'Physeter_catodon', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Gorilla_gorilla', 'Colius_striatus', 'Cariama_cristata', 'Pterocles_gutturalis', 'Gavia_stellata', 'Calidris_pugnax', 'Charadrius_vociferus', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Mustela_putorius', 'Ailuropoda_melanoleuca', 'Lipotes_vexillifer', 'Bubalus_bubalis', 'Pantholops_hodgsonii', 'Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Papio_anubis', 'Macaca_nemestrina', 'Homo_sapiens', 'Picoides_pubescens', 'Apaloderma_vittatum', 'Phaethon_lepturus', 'Fulmarus_glacialis', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Tursiops_truncatus', 'Orcinus_orca', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis', 'Pan_troglodytes', 'Pan_paniscus', 'Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Balearica_regulorum', 'Chlamydotis_macqueenii', 'Eurypyga_helias', 'Mesitornis_unicolor', 'Phalacrocorax_carbo', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Leptonychotes_weddellii', 'Monachus_monachus', 'Bos_mutus', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Lonchura_striata', 'Taeniopygia_guttata', 'Pelecanus_crispus', 'Bos_taurus', 'Bos_indicus', 'Mus_caroli', 'Egretta_garzetta', 'Nipponia_nippon', 'Mus_musculus', 'Mus_spretus']
+Acropora_digitifera
+['Montastraea_faveolata']
+Beta_vulgaris
+['Spinacia_oleracea']
+Spinacia_oleracea
+['Beta_vulgaris']
+Priapulus_caudatus
+['Brugia_malayi', 'Strigamia_maritima', 'Limulus_polyphemus', 'Pristionchus_pacificus', 'Daphnia_pulex', 'Zootermopsis_nevadensis', 'Varroa_destructor', 'Metaseiulus_occidentalis', 'Parasteatoda_tepidariorum', 'Stegodyphus_mimosarum', 'Caenorhabditis_brenneri', 'Caenorhabditis_elegans', 'Caenorhabditis_japonica', 'Lepeophtheirus_salmonis', 'Eurytemora_affinis', 'Caenorhabditis_briggsae', 'Caenorhabditis_remanei', 'Pediculus_humanus', 'Orussus_abietinus', 'Ceratosolen_solmsi', 'Onthophagus_taurus', 'Nilaparvata_lugens', 'Bemisia_tabaci', 'Nicrophorus_vespilloides', 'Bombyx_mori', 'Cimex_lectularius', 'Rhodnius_prolixus', 'Acyrthosiphon_pisum', 'Myzus_persicae', 'Dufourea_novaeangliae', 'Tribolium_castaneum', 'Dendroctonus_ponderosae', 'Mayetiola_destructor', 'Habropoda_laboriosa', 'Camponotus_floridanus', 'Linepithema_humile', 'Pseudomyrmex_gracilis', 'Belgica_antarctica', 'Lucilia_cuprina', 'Papilio_polytes', 'Pieris_rapae', 'Ceratina_calcarata', 'Musca_domestica', 'Stomoxys_calcitrans', 'Ceratitis_capitata', 'Papilio_machaon', 'Papilio_xuthus', 'Danaus_plexippus', 'Eufriesea_mexicana', 'Pogonomyrmex_barbatus', 'Solenopsis_invicta', 'Monomorium_pharaonis', 'Culex_quinquefasciatus', 'Anopheles_darlingi', 'Anopheles_gambiae', 'Bactrocera_cucurbitae', 'Drosophila_busckii', 'Drosophila_willistoni', 'Bicyclus_anynana', 'Apis_florea', 'Wasmannia_auropunctata', 'Aedes_albopictus', 'Aedes_aegypti', 'Bactrocera_dorsalis', 'Bactrocera_oleae', 'Drosophila_grimshawi', 'Heliconius_melpomene', 'Melitaea_cinxia', 'Apis_dorsata', 'Vollenhovia_emeryi', 'Drosophila_virilis', 'Drosophila_obscura', 'Apis_mellifera', 'Apis_cerana', 'Cyphomyrmex_costatus', 'Drosophila_navojoa', 'Drosophila_miranda', 'Drosophila_ananassae', 'Drosophila_bipectinata', 'Atta_cephalotes', 'Drosophila_mojavensis', 'Drosophila_arizonae', 'Drosophila_persimilis', 'Drosophila_pseudoobscura', 'Drosophila_serrata', 'Drosophila_kikkawai', 'Trachymyrmex_zeteki', 'Drosophila_ficusphila', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis', 'Drosophila_eugracilis', 'Drosophila_elegans', 'Drosophila_rhopaloa', 'Drosophila_takahashii', 'Drosophila_melanogaster', 'Drosophila_erecta', 'Drosophila_yakuba', 'Drosophila_biarmipes', 'Drosophila_suzukii', 'Drosophila_sechellia', 'Drosophila_simulans']
+Sorghum_bicolor
+['Zea_mays']
+Zea_mays
+['Sorghum_bicolor']
+Eucalyptus_grandis
+['Citrus_sinensis', 'Citrus_clementina', 'Theobroma_cacao', 'Carica_papaya', 'Gossypium_raimondii', 'Tarenaya_hassleriana', 'Gossypium_hirsutum', 'Gossypium_arboreum', 'Eutrema_salsugineum', 'Camelina_sativa', 'Capsella_rubella', 'Arabidopsis_thaliana', 'Arabidopsis_lyrata', 'Raphanus_sativus', 'Brassica_napus', 'Brassica_rapa', 'Brassica_oleracea']
+Daucus_carota
+['Lactuca_sativa', 'Helianthus_annuus']
+Ciona_intestinalis
+['Callorhinchus_milii', 'Eptatretus_burgeri', 'Petromyzon_marinus', 'Lepisosteus_oculatus', 'Latimeria_chalumnae', 'Scleropages_formosus', 'Nanorana_parkeri', 'Clupea_harengus', 'Xenopus_laevis', 'Xenopus_tropicalis', 'Ornithorhynchus_anatinus', 'Gadus_morhua', 'Esox_lucius', 'Gekko_japonicus', 'Hippocampus_comes', 'Salmo_salar', 'Oncorhynchus_mykiss', 'Ictalurus_punctatus', 'Pygocentrus_nattereri', 'Danio_rerio', 'Pelodiscus_sinensis', 'Monodelphis_domestica', 'Cyprinus_carpio', 'Thamnophis_sirtalis', 'Protobothrops_mucrosquamatus', 'Anolis_carolinensis', 'Pogona_vitticeps', 'Struthio_camelus', 'Chrysemys_picta', 'Chelonia_mydas', 'Sarcophilus_harrisii', 'Phascolarctos_cinereus', 'Dasypus_novemcinctus', 'Sinocyclocheilus_rhinocerous', 'Crocodylus_porosus', 'Gavialis_gangeticus', 'Alligator_sinensis', 'Alligator_mississippiensis', 'Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis', 'Condylura_cristata', 'Trichechus_manatus', 'Loxodonta_africana', 'Orycteropus_afer', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Numida_meleagris', 'Anser_cygnoides', 'Anas_platyrhynchos', 'Caprimulgus_carolinensis', 'Erinaceus_europaeus', 'Sorex_araneus', 'Oryctolagus_cuniculus', 'Ochotona_princeps', 'Otolemur_garnettii', 'Carlito_syrichta', 'Elephantulus_edwardii', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Coturnix_japonica', 'Tauraco_erythrolophus', 'Cuculus_canorus', 'Calypte_anna', 'Chaetura_pelagica', 'Miniopterus_natalensis', 'Propithecus_coquereli', 'Microcebus_murinus', 'Echinops_telfairi', 'Chrysochloris_asiatica', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Meleagris_gallopavo', 'Gallus_gallus', 'Manis_javanica', 'Ceratotherium_simum', 'Vicugna_pacos', 'Sus_scrofa', 'Hipposideros_armiger', 'Rhinolophus_sinicus', 'Rousettus_aegyptiacus', 'Eptesicus_fuscus', 'Heterocephalus_glaber', 'Fukomys_damarensis', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'Xiphophorus_maculatus', 'Poecilia_mexicana', 'Acanthisitta_chloris', 'Columba_livia', 'Opisthocomus_hoazin', 'Equus_asinus', 'Camelus_dromedarius', 'Pteropus_vampyrus', 'Pteropus_alecto', 'Myotis_davidii', 'Cavia_porcellus', 'Cavia_aperea', 'Octodon_degus', 'Chinchilla_lanigera', 'Jaculus_jaculus', 'Dipodomys_ordii', 'Castor_canadensis', 'Callithrix_jacchus', 'Aotus_nancymaae', 'Saimiri_boliviensis', 'Cebus_capucinus', 'Nomascus_leucogenys', 'Tyto_alba', 'Canis_lupus', 'Equus_caballus', 'Equus_przewalskii', 'Camelus_ferus', 'Camelus_bactrianus', 'Balaenoptera_acutorostrata', 'Odocoileus_virginianus', 'Myotis_brandtii', 'Myotis_lucifugus', 'Nannospalax_galili', 'Chlorocebus_sabaeus', 'Colobus_angolensis', 'Pongo_abelii', 'Buceros_rhinoceros', 'Merops_nubicus', 'Leptosomus_discolor', 'Melopsittacus_undulatus', 'Nestor_notabilis', 'Lepidothrix_coronata', 'Manacus_vitellinus', 'Corvus_brachyrhynchos', 'Falco_peregrinus', 'Falco_cherrug', 'Aquila_chrysaetos', 'Panthera_tigris', 'Panthera_pardus', 'Felis_catus', 'Acinonyx_jubatus', 'Physeter_catodon', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Gorilla_gorilla', 'Colius_striatus', 'Cariama_cristata', 'Pterocles_gutturalis', 'Gavia_stellata', 'Calidris_pugnax', 'Charadrius_vociferus', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Mustela_putorius', 'Ailuropoda_melanoleuca', 'Lipotes_vexillifer', 'Bubalus_bubalis', 'Pantholops_hodgsonii', 'Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Papio_anubis', 'Macaca_nemestrina', 'Homo_sapiens', 'Picoides_pubescens', 'Apaloderma_vittatum', 'Phaethon_lepturus', 'Fulmarus_glacialis', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Tursiops_truncatus', 'Orcinus_orca', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis', 'Pan_troglodytes', 'Pan_paniscus', 'Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Balearica_regulorum', 'Chlamydotis_macqueenii', 'Eurypyga_helias', 'Mesitornis_unicolor', 'Phalacrocorax_carbo', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Leptonychotes_weddellii', 'Monachus_monachus', 'Bos_mutus', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Lonchura_striata', 'Taeniopygia_guttata', 'Pelecanus_crispus', 'Bos_taurus', 'Bos_indicus', 'Mus_caroli', 'Egretta_garzetta', 'Nipponia_nippon', 'Mus_musculus', 'Mus_spretus']
+Branchiostoma_belcheri
+['Branchiostoma_floridae']
+Branchiostoma_floridae
+['Branchiostoma_belcheri']
+Helobdella_robusta
+['Capitella_teleta']
+Capitella_teleta
+['Helobdella_robusta']
+Octopus_bimaculoides
+['Aplysia_californica', 'Mizuhopecten_yessoensis', 'Crassostrea_virginica', 'Crassostrea_gigas']
+Oryza_brachyantha
+['Oryza_punctata', 'Oryza_meridionalis', 'Oryza_barthii', 'Oryza_glaberrima', 'Oryza_rufipogon', 'Oryza_sativa']
+Brachypodium_distachyon
+['Hordeum_vulgare', 'Aegilops_tauschii', 'Triticum_urartu', 'Triticum_aestivum']
+Lactuca_sativa
+['Helianthus_annuus']
+Helianthus_annuus
+['Lactuca_sativa']
+Sesamum_indicum
+['Erythranthe_guttata']
+Erythranthe_guttata
+['Sesamum_indicum']
+Ipomoea_nil
+['Nicotiana_tomentosiformis', 'Capsicum_annuum', 'Nicotiana_tabacum', 'Nicotiana_sylvestris', 'Solanum_tuberosum', 'Solanum_pennellii']
+Brugia_malayi
+['Pristionchus_pacificus', 'Caenorhabditis_brenneri', 'Caenorhabditis_elegans', 'Caenorhabditis_japonica', 'Caenorhabditis_briggsae', 'Caenorhabditis_remanei']
+Aplysia_californica
+['Mizuhopecten_yessoensis', 'Crassostrea_virginica', 'Crassostrea_gigas']
+Oryza_punctata
+['Oryza_meridionalis', 'Oryza_barthii', 'Oryza_glaberrima', 'Oryza_rufipogon', 'Oryza_sativa']
+Hordeum_vulgare
+['Aegilops_tauschii', 'Triticum_urartu', 'Triticum_aestivum']
+Citrus_sinensis
+['Citrus_clementina']
+Citrus_clementina
+['Citrus_sinensis']
+Momordica_charantia
+['Cucumis_sativus', 'Cucumis_melo']
+Ricinus_communis
+['Jatropha_curcas', 'Hevea_brasiliensis', 'Manihot_esculenta']
+Populus_trichocarpa
+['Populus_euphratica']
+Populus_euphratica
+['Populus_trichocarpa']
+Callorhinchus_milii
+['Lepisosteus_oculatus', 'Latimeria_chalumnae', 'Scleropages_formosus', 'Nanorana_parkeri', 'Clupea_harengus', 'Xenopus_laevis', 'Xenopus_tropicalis', 'Ornithorhynchus_anatinus', 'Gadus_morhua', 'Esox_lucius', 'Gekko_japonicus', 'Hippocampus_comes', 'Salmo_salar', 'Oncorhynchus_mykiss', 'Ictalurus_punctatus', 'Pygocentrus_nattereri', 'Danio_rerio', 'Pelodiscus_sinensis', 'Monodelphis_domestica', 'Cyprinus_carpio', 'Thamnophis_sirtalis', 'Protobothrops_mucrosquamatus', 'Anolis_carolinensis', 'Pogona_vitticeps', 'Struthio_camelus', 'Chrysemys_picta', 'Chelonia_mydas', 'Sarcophilus_harrisii', 'Phascolarctos_cinereus', 'Dasypus_novemcinctus', 'Sinocyclocheilus_rhinocerous', 'Crocodylus_porosus', 'Gavialis_gangeticus', 'Alligator_sinensis', 'Alligator_mississippiensis', 'Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis', 'Condylura_cristata', 'Trichechus_manatus', 'Loxodonta_africana', 'Orycteropus_afer', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Numida_meleagris', 'Anser_cygnoides', 'Anas_platyrhynchos', 'Caprimulgus_carolinensis', 'Erinaceus_europaeus', 'Sorex_araneus', 'Oryctolagus_cuniculus', 'Ochotona_princeps', 'Otolemur_garnettii', 'Carlito_syrichta', 'Elephantulus_edwardii', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Coturnix_japonica', 'Tauraco_erythrolophus', 'Cuculus_canorus', 'Calypte_anna', 'Chaetura_pelagica', 'Miniopterus_natalensis', 'Propithecus_coquereli', 'Microcebus_murinus', 'Echinops_telfairi', 'Chrysochloris_asiatica', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Meleagris_gallopavo', 'Gallus_gallus', 'Manis_javanica', 'Ceratotherium_simum', 'Vicugna_pacos', 'Sus_scrofa', 'Hipposideros_armiger', 'Rhinolophus_sinicus', 'Rousettus_aegyptiacus', 'Eptesicus_fuscus', 'Heterocephalus_glaber', 'Fukomys_damarensis', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'Xiphophorus_maculatus', 'Poecilia_mexicana', 'Acanthisitta_chloris', 'Columba_livia', 'Opisthocomus_hoazin', 'Equus_asinus', 'Camelus_dromedarius', 'Pteropus_vampyrus', 'Pteropus_alecto', 'Myotis_davidii', 'Cavia_porcellus', 'Cavia_aperea', 'Octodon_degus', 'Chinchilla_lanigera', 'Jaculus_jaculus', 'Dipodomys_ordii', 'Castor_canadensis', 'Callithrix_jacchus', 'Aotus_nancymaae', 'Saimiri_boliviensis', 'Cebus_capucinus', 'Nomascus_leucogenys', 'Tyto_alba', 'Canis_lupus', 'Equus_caballus', 'Equus_przewalskii', 'Camelus_ferus', 'Camelus_bactrianus', 'Balaenoptera_acutorostrata', 'Odocoileus_virginianus', 'Myotis_brandtii', 'Myotis_lucifugus', 'Nannospalax_galili', 'Chlorocebus_sabaeus', 'Colobus_angolensis', 'Pongo_abelii', 'Buceros_rhinoceros', 'Merops_nubicus', 'Leptosomus_discolor', 'Melopsittacus_undulatus', 'Nestor_notabilis', 'Lepidothrix_coronata', 'Manacus_vitellinus', 'Corvus_brachyrhynchos', 'Falco_peregrinus', 'Falco_cherrug', 'Aquila_chrysaetos', 'Panthera_tigris', 'Panthera_pardus', 'Felis_catus', 'Acinonyx_jubatus', 'Physeter_catodon', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Gorilla_gorilla', 'Colius_striatus', 'Cariama_cristata', 'Pterocles_gutturalis', 'Gavia_stellata', 'Calidris_pugnax', 'Charadrius_vociferus', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Mustela_putorius', 'Ailuropoda_melanoleuca', 'Lipotes_vexillifer', 'Bubalus_bubalis', 'Pantholops_hodgsonii', 'Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Papio_anubis', 'Macaca_nemestrina', 'Homo_sapiens', 'Picoides_pubescens', 'Apaloderma_vittatum', 'Phaethon_lepturus', 'Fulmarus_glacialis', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Tursiops_truncatus', 'Orcinus_orca', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis', 'Pan_troglodytes', 'Pan_paniscus', 'Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Balearica_regulorum', 'Chlamydotis_macqueenii', 'Eurypyga_helias', 'Mesitornis_unicolor', 'Phalacrocorax_carbo', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Leptonychotes_weddellii', 'Monachus_monachus', 'Bos_mutus', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Lonchura_striata', 'Taeniopygia_guttata', 'Pelecanus_crispus', 'Bos_taurus', 'Bos_indicus', 'Mus_caroli', 'Egretta_garzetta', 'Nipponia_nippon', 'Mus_musculus', 'Mus_spretus']
+Eptatretus_burgeri
+['Petromyzon_marinus']
+Petromyzon_marinus
+['Eptatretus_burgeri']
+Strigamia_maritima
+['Daphnia_pulex', 'Zootermopsis_nevadensis', 'Lepeophtheirus_salmonis', 'Eurytemora_affinis', 'Pediculus_humanus', 'Orussus_abietinus', 'Ceratosolen_solmsi', 'Onthophagus_taurus', 'Nilaparvata_lugens', 'Bemisia_tabaci', 'Nicrophorus_vespilloides', 'Bombyx_mori', 'Cimex_lectularius', 'Rhodnius_prolixus', 'Acyrthosiphon_pisum', 'Myzus_persicae', 'Dufourea_novaeangliae', 'Tribolium_castaneum', 'Dendroctonus_ponderosae', 'Mayetiola_destructor', 'Habropoda_laboriosa', 'Camponotus_floridanus', 'Linepithema_humile', 'Pseudomyrmex_gracilis', 'Belgica_antarctica', 'Lucilia_cuprina', 'Papilio_polytes', 'Pieris_rapae', 'Ceratina_calcarata', 'Musca_domestica', 'Stomoxys_calcitrans', 'Ceratitis_capitata', 'Papilio_machaon', 'Papilio_xuthus', 'Danaus_plexippus', 'Eufriesea_mexicana', 'Pogonomyrmex_barbatus', 'Solenopsis_invicta', 'Monomorium_pharaonis', 'Culex_quinquefasciatus', 'Anopheles_darlingi', 'Anopheles_gambiae', 'Bactrocera_cucurbitae', 'Drosophila_busckii', 'Drosophila_willistoni', 'Bicyclus_anynana', 'Apis_florea', 'Wasmannia_auropunctata', 'Aedes_albopictus', 'Aedes_aegypti', 'Bactrocera_dorsalis', 'Bactrocera_oleae', 'Drosophila_grimshawi', 'Heliconius_melpomene', 'Melitaea_cinxia', 'Apis_dorsata', 'Vollenhovia_emeryi', 'Drosophila_virilis', 'Drosophila_obscura', 'Apis_mellifera', 'Apis_cerana', 'Cyphomyrmex_costatus', 'Drosophila_navojoa', 'Drosophila_miranda', 'Drosophila_ananassae', 'Drosophila_bipectinata', 'Atta_cephalotes', 'Drosophila_mojavensis', 'Drosophila_arizonae', 'Drosophila_persimilis', 'Drosophila_pseudoobscura', 'Drosophila_serrata', 'Drosophila_kikkawai', 'Trachymyrmex_zeteki', 'Drosophila_ficusphila', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis', 'Drosophila_eugracilis', 'Drosophila_elegans', 'Drosophila_rhopaloa', 'Drosophila_takahashii', 'Drosophila_melanogaster', 'Drosophila_erecta', 'Drosophila_yakuba', 'Drosophila_biarmipes', 'Drosophila_suzukii', 'Drosophila_sechellia', 'Drosophila_simulans']
+Limulus_polyphemus
+['Varroa_destructor', 'Metaseiulus_occidentalis', 'Parasteatoda_tepidariorum', 'Stegodyphus_mimosarum']
+Pristionchus_pacificus
+['Caenorhabditis_brenneri', 'Caenorhabditis_elegans', 'Caenorhabditis_japonica', 'Caenorhabditis_briggsae', 'Caenorhabditis_remanei']
+Mizuhopecten_yessoensis
+['Crassostrea_virginica', 'Crassostrea_gigas']
+Oryza_meridionalis
+['Oryza_barthii', 'Oryza_glaberrima', 'Oryza_rufipogon', 'Oryza_sativa']
+Aegilops_tauschii
+['Triticum_urartu', 'Triticum_aestivum']
+Theobroma_cacao
+['Gossypium_raimondii', 'Gossypium_hirsutum', 'Gossypium_arboreum']
+Carica_papaya
+['Tarenaya_hassleriana', 'Eutrema_salsugineum', 'Camelina_sativa', 'Capsella_rubella', 'Arabidopsis_thaliana', 'Arabidopsis_lyrata', 'Raphanus_sativus', 'Brassica_napus', 'Brassica_rapa', 'Brassica_oleracea']
+Cucumis_sativus
+['Cucumis_melo']
+Cucumis_melo
+['Cucumis_sativus']
+Juglans_regia
+['Lupinus_angustifolius', 'Cicer_arietinum', 'Cajanus_cajan', 'Glycine_max', 'Vigna_radiata', 'Phaseolus_vulgaris', 'Medicago_truncatula', 'Trifolium_pratense']
+Morus_notabilis
+['Fragaria_vesca', 'Pyrus_x_bretschneideri', 'Malus_domestica', 'Prunus_avium', 'Prunus_persica', 'Prunus_mume']
+Jatropha_curcas
+['Hevea_brasiliensis', 'Manihot_esculenta']
+Nicotiana_tomentosiformis
+['Nicotiana_tabacum', 'Nicotiana_sylvestris']
+Capsicum_annuum
+['Solanum_tuberosum', 'Solanum_pennellii']
+Crassostrea_virginica
+['Crassostrea_gigas']
+Crassostrea_gigas
+['Crassostrea_virginica']
+Oryza_barthii
+['Oryza_glaberrima', 'Oryza_rufipogon', 'Oryza_sativa']
+Triticum_urartu
+['Triticum_aestivum']
+Triticum_aestivum
+['Triticum_urartu']
+Gossypium_raimondii
+['Gossypium_hirsutum', 'Gossypium_arboreum']
+Tarenaya_hassleriana
+['Eutrema_salsugineum', 'Camelina_sativa', 'Capsella_rubella', 'Arabidopsis_thaliana', 'Arabidopsis_lyrata', 'Raphanus_sativus', 'Brassica_napus', 'Brassica_rapa', 'Brassica_oleracea']
+Lupinus_angustifolius
+['Cicer_arietinum', 'Cajanus_cajan', 'Glycine_max', 'Vigna_radiata', 'Phaseolus_vulgaris', 'Medicago_truncatula', 'Trifolium_pratense']
+Fragaria_vesca
+['Pyrus_x_bretschneideri', 'Malus_domestica', 'Prunus_avium', 'Prunus_persica', 'Prunus_mume']
+Hevea_brasiliensis
+['Manihot_esculenta']
+Manihot_esculenta
+['Hevea_brasiliensis']
+Nicotiana_tabacum
+['Nicotiana_sylvestris']
+Nicotiana_sylvestris
+['Nicotiana_tabacum']
+Solanum_tuberosum
+['Solanum_pennellii']
+Solanum_pennellii
+['Solanum_tuberosum']
+Lepisosteus_oculatus
+['Scleropages_formosus', 'Clupea_harengus', 'Gadus_morhua', 'Esox_lucius', 'Hippocampus_comes', 'Salmo_salar', 'Oncorhynchus_mykiss', 'Ictalurus_punctatus', 'Pygocentrus_nattereri', 'Danio_rerio', 'Cyprinus_carpio', 'Sinocyclocheilus_rhinocerous', 'Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Xiphophorus_maculatus', 'Poecilia_mexicana']
+Latimeria_chalumnae
+['Nanorana_parkeri', 'Xenopus_laevis', 'Xenopus_tropicalis', 'Ornithorhynchus_anatinus', 'Gekko_japonicus', 'Pelodiscus_sinensis', 'Monodelphis_domestica', 'Thamnophis_sirtalis', 'Protobothrops_mucrosquamatus', 'Anolis_carolinensis', 'Pogona_vitticeps', 'Struthio_camelus', 'Chrysemys_picta', 'Chelonia_mydas', 'Sarcophilus_harrisii', 'Phascolarctos_cinereus', 'Dasypus_novemcinctus', 'Crocodylus_porosus', 'Gavialis_gangeticus', 'Alligator_sinensis', 'Alligator_mississippiensis', 'Condylura_cristata', 'Trichechus_manatus', 'Loxodonta_africana', 'Orycteropus_afer', 'Numida_meleagris', 'Anser_cygnoides', 'Anas_platyrhynchos', 'Caprimulgus_carolinensis', 'Erinaceus_europaeus', 'Sorex_araneus', 'Oryctolagus_cuniculus', 'Ochotona_princeps', 'Otolemur_garnettii', 'Carlito_syrichta', 'Elephantulus_edwardii', 'Coturnix_japonica', 'Tauraco_erythrolophus', 'Cuculus_canorus', 'Calypte_anna', 'Chaetura_pelagica', 'Miniopterus_natalensis', 'Propithecus_coquereli', 'Microcebus_murinus', 'Echinops_telfairi', 'Chrysochloris_asiatica', 'Meleagris_gallopavo', 'Gallus_gallus', 'Manis_javanica', 'Ceratotherium_simum', 'Vicugna_pacos', 'Sus_scrofa', 'Hipposideros_armiger', 'Rhinolophus_sinicus', 'Rousettus_aegyptiacus', 'Eptesicus_fuscus', 'Heterocephalus_glaber', 'Fukomys_damarensis', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'Acanthisitta_chloris', 'Columba_livia', 'Opisthocomus_hoazin', 'Equus_asinus', 'Camelus_dromedarius', 'Pteropus_vampyrus', 'Pteropus_alecto', 'Myotis_davidii', 'Cavia_porcellus', 'Cavia_aperea', 'Octodon_degus', 'Chinchilla_lanigera', 'Jaculus_jaculus', 'Dipodomys_ordii', 'Castor_canadensis', 'Callithrix_jacchus', 'Aotus_nancymaae', 'Saimiri_boliviensis', 'Cebus_capucinus', 'Nomascus_leucogenys', 'Tyto_alba', 'Canis_lupus', 'Equus_caballus', 'Equus_przewalskii', 'Camelus_ferus', 'Camelus_bactrianus', 'Balaenoptera_acutorostrata', 'Odocoileus_virginianus', 'Myotis_brandtii', 'Myotis_lucifugus', 'Nannospalax_galili', 'Chlorocebus_sabaeus', 'Colobus_angolensis', 'Pongo_abelii', 'Buceros_rhinoceros', 'Merops_nubicus', 'Leptosomus_discolor', 'Melopsittacus_undulatus', 'Nestor_notabilis', 'Lepidothrix_coronata', 'Manacus_vitellinus', 'Corvus_brachyrhynchos', 'Falco_peregrinus', 'Falco_cherrug', 'Aquila_chrysaetos', 'Panthera_tigris', 'Panthera_pardus', 'Felis_catus', 'Acinonyx_jubatus', 'Physeter_catodon', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Gorilla_gorilla', 'Colius_striatus', 'Cariama_cristata', 'Pterocles_gutturalis', 'Gavia_stellata', 'Calidris_pugnax', 'Charadrius_vociferus', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Mustela_putorius', 'Ailuropoda_melanoleuca', 'Lipotes_vexillifer', 'Bubalus_bubalis', 'Pantholops_hodgsonii', 'Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Papio_anubis', 'Macaca_nemestrina', 'Homo_sapiens', 'Picoides_pubescens', 'Apaloderma_vittatum', 'Phaethon_lepturus', 'Fulmarus_glacialis', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Tursiops_truncatus', 'Orcinus_orca', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis', 'Pan_troglodytes', 'Pan_paniscus', 'Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Balearica_regulorum', 'Chlamydotis_macqueenii', 'Eurypyga_helias', 'Mesitornis_unicolor', 'Phalacrocorax_carbo', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Leptonychotes_weddellii', 'Monachus_monachus', 'Bos_mutus', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Lonchura_striata', 'Taeniopygia_guttata', 'Pelecanus_crispus', 'Bos_taurus', 'Bos_indicus', 'Mus_caroli', 'Egretta_garzetta', 'Nipponia_nippon', 'Mus_musculus', 'Mus_spretus']
+Daphnia_pulex
+['Lepeophtheirus_salmonis', 'Eurytemora_affinis']
+Zootermopsis_nevadensis
+['Pediculus_humanus', 'Orussus_abietinus', 'Ceratosolen_solmsi', 'Onthophagus_taurus', 'Nilaparvata_lugens', 'Bemisia_tabaci', 'Nicrophorus_vespilloides', 'Bombyx_mori', 'Cimex_lectularius', 'Rhodnius_prolixus', 'Acyrthosiphon_pisum', 'Myzus_persicae', 'Dufourea_novaeangliae', 'Tribolium_castaneum', 'Dendroctonus_ponderosae', 'Mayetiola_destructor', 'Habropoda_laboriosa', 'Camponotus_floridanus', 'Linepithema_humile', 'Pseudomyrmex_gracilis', 'Belgica_antarctica', 'Lucilia_cuprina', 'Papilio_polytes', 'Pieris_rapae', 'Ceratina_calcarata', 'Musca_domestica', 'Stomoxys_calcitrans', 'Ceratitis_capitata', 'Papilio_machaon', 'Papilio_xuthus', 'Danaus_plexippus', 'Eufriesea_mexicana', 'Pogonomyrmex_barbatus', 'Solenopsis_invicta', 'Monomorium_pharaonis', 'Culex_quinquefasciatus', 'Anopheles_darlingi', 'Anopheles_gambiae', 'Bactrocera_cucurbitae', 'Drosophila_busckii', 'Drosophila_willistoni', 'Bicyclus_anynana', 'Apis_florea', 'Wasmannia_auropunctata', 'Aedes_albopictus', 'Aedes_aegypti', 'Bactrocera_dorsalis', 'Bactrocera_oleae', 'Drosophila_grimshawi', 'Heliconius_melpomene', 'Melitaea_cinxia', 'Apis_dorsata', 'Vollenhovia_emeryi', 'Drosophila_virilis', 'Drosophila_obscura', 'Apis_mellifera', 'Apis_cerana', 'Cyphomyrmex_costatus', 'Drosophila_navojoa', 'Drosophila_miranda', 'Drosophila_ananassae', 'Drosophila_bipectinata', 'Atta_cephalotes', 'Drosophila_mojavensis', 'Drosophila_arizonae', 'Drosophila_persimilis', 'Drosophila_pseudoobscura', 'Drosophila_serrata', 'Drosophila_kikkawai', 'Trachymyrmex_zeteki', 'Drosophila_ficusphila', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis', 'Drosophila_eugracilis', 'Drosophila_elegans', 'Drosophila_rhopaloa', 'Drosophila_takahashii', 'Drosophila_melanogaster', 'Drosophila_erecta', 'Drosophila_yakuba', 'Drosophila_biarmipes', 'Drosophila_suzukii', 'Drosophila_sechellia', 'Drosophila_simulans']
+Varroa_destructor
+['Metaseiulus_occidentalis']
+Parasteatoda_tepidariorum
+['Stegodyphus_mimosarum']
+Stegodyphus_mimosarum
+['Parasteatoda_tepidariorum']
+Caenorhabditis_brenneri
+['Caenorhabditis_elegans']
+Caenorhabditis_elegans
+['Caenorhabditis_brenneri']
+Caenorhabditis_japonica
+['Caenorhabditis_briggsae', 'Caenorhabditis_remanei']
+Oryza_glaberrima
+['Oryza_rufipogon', 'Oryza_sativa']
+Gossypium_hirsutum
+['Gossypium_arboreum']
+Gossypium_arboreum
+['Gossypium_hirsutum']
+Scleropages_formosus
+['Clupea_harengus', 'Gadus_morhua', 'Esox_lucius', 'Hippocampus_comes', 'Salmo_salar', 'Oncorhynchus_mykiss', 'Ictalurus_punctatus', 'Pygocentrus_nattereri', 'Danio_rerio', 'Cyprinus_carpio', 'Sinocyclocheilus_rhinocerous', 'Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Xiphophorus_maculatus', 'Poecilia_mexicana']
+Lepeophtheirus_salmonis
+['Eurytemora_affinis']
+Eurytemora_affinis
+['Lepeophtheirus_salmonis']
+Caenorhabditis_briggsae
+['Caenorhabditis_remanei']
+Caenorhabditis_remanei
+['Caenorhabditis_briggsae']
+Oryza_rufipogon
+['Oryza_sativa']
+Oryza_sativa
+['Oryza_rufipogon']
+Eutrema_salsugineum
+['Raphanus_sativus', 'Brassica_napus', 'Brassica_rapa', 'Brassica_oleracea']
+Cicer_arietinum
+['Medicago_truncatula', 'Trifolium_pratense']
+Pyrus_x_bretschneideri
+['Malus_domestica']
+Malus_domestica
+['Pyrus_x_bretschneideri']
+Prunus_avium
+['Prunus_persica', 'Prunus_mume']
+Nanorana_parkeri
+['Xenopus_laevis', 'Xenopus_tropicalis']
+Pediculus_humanus
+['Nilaparvata_lugens', 'Bemisia_tabaci', 'Cimex_lectularius', 'Rhodnius_prolixus', 'Acyrthosiphon_pisum', 'Myzus_persicae']
+Camelina_sativa
+['Capsella_rubella']
+Capsella_rubella
+['Camelina_sativa']
+Arabidopsis_thaliana
+['Arabidopsis_lyrata']
+Arabidopsis_lyrata
+['Arabidopsis_thaliana']
+Raphanus_sativus
+['Brassica_napus', 'Brassica_rapa', 'Brassica_oleracea']
+Cajanus_cajan
+['Glycine_max']
+Glycine_max
+['Cajanus_cajan']
+Vigna_radiata
+['Phaseolus_vulgaris']
+Phaseolus_vulgaris
+['Vigna_radiata']
+Medicago_truncatula
+['Trifolium_pratense']
+Trifolium_pratense
+['Medicago_truncatula']
+Prunus_persica
+['Prunus_mume']
+Prunus_mume
+['Prunus_persica']
+Clupea_harengus
+['Ictalurus_punctatus', 'Pygocentrus_nattereri', 'Danio_rerio', 'Cyprinus_carpio', 'Sinocyclocheilus_rhinocerous', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis']
+Xenopus_laevis
+['Xenopus_tropicalis']
+Xenopus_tropicalis
+['Xenopus_laevis']
+Ornithorhynchus_anatinus
+['Monodelphis_domestica', 'Sarcophilus_harrisii', 'Phascolarctos_cinereus', 'Dasypus_novemcinctus', 'Condylura_cristata', 'Trichechus_manatus', 'Loxodonta_africana', 'Orycteropus_afer', 'Erinaceus_europaeus', 'Sorex_araneus', 'Oryctolagus_cuniculus', 'Ochotona_princeps', 'Otolemur_garnettii', 'Carlito_syrichta', 'Elephantulus_edwardii', 'Miniopterus_natalensis', 'Propithecus_coquereli', 'Microcebus_murinus', 'Echinops_telfairi', 'Chrysochloris_asiatica', 'Manis_javanica', 'Ceratotherium_simum', 'Vicugna_pacos', 'Sus_scrofa', 'Hipposideros_armiger', 'Rhinolophus_sinicus', 'Rousettus_aegyptiacus', 'Eptesicus_fuscus', 'Heterocephalus_glaber', 'Fukomys_damarensis', 'Ictidomys_tridecemlineatus', 'Marmota_marmota', 'Equus_asinus', 'Camelus_dromedarius', 'Pteropus_vampyrus', 'Pteropus_alecto', 'Myotis_davidii', 'Cavia_porcellus', 'Cavia_aperea', 'Octodon_degus', 'Chinchilla_lanigera', 'Jaculus_jaculus', 'Dipodomys_ordii', 'Castor_canadensis', 'Callithrix_jacchus', 'Aotus_nancymaae', 'Saimiri_boliviensis', 'Cebus_capucinus', 'Nomascus_leucogenys', 'Canis_lupus', 'Equus_caballus', 'Equus_przewalskii', 'Camelus_ferus', 'Camelus_bactrianus', 'Balaenoptera_acutorostrata', 'Odocoileus_virginianus', 'Myotis_brandtii', 'Myotis_lucifugus', 'Nannospalax_galili', 'Chlorocebus_sabaeus', 'Colobus_angolensis', 'Pongo_abelii', 'Panthera_tigris', 'Panthera_pardus', 'Felis_catus', 'Acinonyx_jubatus', 'Physeter_catodon', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Gorilla_gorilla', 'Mustela_putorius', 'Ailuropoda_melanoleuca', 'Lipotes_vexillifer', 'Bubalus_bubalis', 'Pantholops_hodgsonii', 'Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Papio_anubis', 'Macaca_nemestrina', 'Homo_sapiens', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Tursiops_truncatus', 'Orcinus_orca', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis', 'Pan_troglodytes', 'Pan_paniscus', 'Leptonychotes_weddellii', 'Monachus_monachus', 'Bos_mutus', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Bos_taurus', 'Bos_indicus', 'Mus_caroli', 'Mus_musculus', 'Mus_spretus']
+Orussus_abietinus
+['Ceratosolen_solmsi', 'Dufourea_novaeangliae', 'Habropoda_laboriosa', 'Camponotus_floridanus', 'Linepithema_humile', 'Pseudomyrmex_gracilis', 'Ceratina_calcarata', 'Eufriesea_mexicana', 'Pogonomyrmex_barbatus', 'Solenopsis_invicta', 'Monomorium_pharaonis', 'Apis_florea', 'Wasmannia_auropunctata', 'Apis_dorsata', 'Vollenhovia_emeryi', 'Apis_mellifera', 'Apis_cerana', 'Cyphomyrmex_costatus', 'Atta_cephalotes', 'Trachymyrmex_zeteki', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis']
+Brassica_napus
+['Brassica_rapa', 'Brassica_oleracea']
+Gadus_morhua
+['Hippocampus_comes', 'Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Xiphophorus_maculatus', 'Poecilia_mexicana']
+Esox_lucius
+['Salmo_salar', 'Oncorhynchus_mykiss']
+Gekko_japonicus
+['Thamnophis_sirtalis', 'Protobothrops_mucrosquamatus', 'Anolis_carolinensis', 'Pogona_vitticeps']
+Ceratosolen_solmsi
+['Dufourea_novaeangliae', 'Habropoda_laboriosa', 'Camponotus_floridanus', 'Linepithema_humile', 'Pseudomyrmex_gracilis', 'Ceratina_calcarata', 'Eufriesea_mexicana', 'Pogonomyrmex_barbatus', 'Solenopsis_invicta', 'Monomorium_pharaonis', 'Apis_florea', 'Wasmannia_auropunctata', 'Apis_dorsata', 'Vollenhovia_emeryi', 'Apis_mellifera', 'Apis_cerana', 'Cyphomyrmex_costatus', 'Atta_cephalotes', 'Trachymyrmex_zeteki', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis']
+Onthophagus_taurus
+['Nicrophorus_vespilloides', 'Tribolium_castaneum', 'Dendroctonus_ponderosae']
+Nilaparvata_lugens
+['Cimex_lectularius', 'Rhodnius_prolixus']
+Bemisia_tabaci
+['Acyrthosiphon_pisum', 'Myzus_persicae']
+Brassica_rapa
+['Brassica_oleracea']
+Brassica_oleracea
+['Brassica_rapa']
+Hippocampus_comes
+['Oryzias_latipes', 'Lates_calcarifer', 'Seriola_dumerili', 'Boleophthalmus_pectinirostris', 'Nothobranchius_furzeri', 'Acanthochromis_polyacanthus', 'Stegastes_partitus', 'Neolamprologus_brichardi', 'Cyprinodon_variegatus', 'Haplochromis_burtoni', 'Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Fundulus_heteroclitus', 'Maylandia_zebra', 'Pundamilia_nyererei', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis', 'Xiphophorus_maculatus', 'Poecilia_mexicana']
+Salmo_salar
+['Oncorhynchus_mykiss']
+Oncorhynchus_mykiss
+['Salmo_salar']
+Ictalurus_punctatus
+['Pygocentrus_nattereri']
+Pygocentrus_nattereri
+['Ictalurus_punctatus']
+Danio_rerio
+['Cyprinus_carpio', 'Sinocyclocheilus_rhinocerous', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis']
+Pelodiscus_sinensis
+['Chrysemys_picta', 'Chelonia_mydas']
+Monodelphis_domestica
+['Sarcophilus_harrisii', 'Phascolarctos_cinereus']
+Nicrophorus_vespilloides
+['Tribolium_castaneum', 'Dendroctonus_ponderosae']
+Bombyx_mori
+['Papilio_polytes', 'Pieris_rapae', 'Papilio_machaon', 'Papilio_xuthus', 'Danaus_plexippus', 'Bicyclus_anynana', 'Heliconius_melpomene', 'Melitaea_cinxia']
+Cimex_lectularius
+['Rhodnius_prolixus']
+Rhodnius_prolixus
+['Cimex_lectularius']
+Acyrthosiphon_pisum
+['Myzus_persicae']
+Myzus_persicae
+['Acyrthosiphon_pisum']
+Cyprinus_carpio
+['Sinocyclocheilus_rhinocerous', 'Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis']
+Thamnophis_sirtalis
+['Protobothrops_mucrosquamatus']
+Protobothrops_mucrosquamatus
+['Thamnophis_sirtalis']
+Anolis_carolinensis
+['Pogona_vitticeps']
+Pogona_vitticeps
+['Anolis_carolinensis']
+Struthio_camelus
+['Numida_meleagris', 'Anser_cygnoides', 'Anas_platyrhynchos', 'Caprimulgus_carolinensis', 'Coturnix_japonica', 'Tauraco_erythrolophus', 'Cuculus_canorus', 'Calypte_anna', 'Chaetura_pelagica', 'Meleagris_gallopavo', 'Gallus_gallus', 'Acanthisitta_chloris', 'Columba_livia', 'Opisthocomus_hoazin', 'Tyto_alba', 'Buceros_rhinoceros', 'Merops_nubicus', 'Leptosomus_discolor', 'Melopsittacus_undulatus', 'Nestor_notabilis', 'Lepidothrix_coronata', 'Manacus_vitellinus', 'Corvus_brachyrhynchos', 'Falco_peregrinus', 'Falco_cherrug', 'Aquila_chrysaetos', 'Colius_striatus', 'Cariama_cristata', 'Pterocles_gutturalis', 'Gavia_stellata', 'Calidris_pugnax', 'Charadrius_vociferus', 'Haliaeetus_leucocephalus', 'Haliaeetus_albicilla', 'Picoides_pubescens', 'Apaloderma_vittatum', 'Phaethon_lepturus', 'Fulmarus_glacialis', 'Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Balearica_regulorum', 'Chlamydotis_macqueenii', 'Eurypyga_helias', 'Mesitornis_unicolor', 'Phalacrocorax_carbo', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri', 'Lonchura_striata', 'Taeniopygia_guttata', 'Pelecanus_crispus', 'Egretta_garzetta', 'Nipponia_nippon']
+Chrysemys_picta
+['Chelonia_mydas']
+Chelonia_mydas
+['Chrysemys_picta']
+Sarcophilus_harrisii
+['Phascolarctos_cinereus']
+Phascolarctos_cinereus
+['Sarcophilus_harrisii']
+Dasypus_novemcinctus
+['Trichechus_manatus', 'Loxodonta_africana', 'Orycteropus_afer', 'Elephantulus_edwardii', 'Echinops_telfairi', 'Chrysochloris_asiatica']
+Dufourea_novaeangliae
+['Habropoda_laboriosa', 'Ceratina_calcarata', 'Eufriesea_mexicana', 'Apis_florea', 'Apis_dorsata', 'Apis_mellifera', 'Apis_cerana']
+Tribolium_castaneum
+['Dendroctonus_ponderosae']
+Dendroctonus_ponderosae
+['Tribolium_castaneum']
+Mayetiola_destructor
+['Belgica_antarctica', 'Culex_quinquefasciatus', 'Anopheles_darlingi', 'Anopheles_gambiae', 'Aedes_albopictus', 'Aedes_aegypti']
+Sinocyclocheilus_rhinocerous
+['Sinocyclocheilus_grahami', 'Sinocyclocheilus_anshuiensis']
+Crocodylus_porosus
+['Gavialis_gangeticus']
+Gavialis_gangeticus
+['Crocodylus_porosus']
+Alligator_sinensis
+['Alligator_mississippiensis']
+Alligator_mississippiensis
+['Alligator_sinensis']
+Habropoda_laboriosa
+['Ceratina_calcarata', 'Eufriesea_mexicana', 'Apis_florea', 'Apis_dorsata', 'Apis_mellifera', 'Apis_cerana']
+Camponotus_floridanus
+['Pogonomyrmex_barbatus', 'Solenopsis_invicta', 'Monomorium_pharaonis', 'Wasmannia_auropunctata', 'Vollenhovia_emeryi', 'Cyphomyrmex_costatus', 'Atta_cephalotes', 'Trachymyrmex_zeteki', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis']
+Linepithema_humile
+['Pseudomyrmex_gracilis']
+Pseudomyrmex_gracilis
+['Linepithema_humile']
+Belgica_antarctica
+['Culex_quinquefasciatus', 'Anopheles_darlingi', 'Anopheles_gambiae', 'Aedes_albopictus', 'Aedes_aegypti']
+Lucilia_cuprina
+['Musca_domestica', 'Stomoxys_calcitrans']
+Papilio_polytes
+['Papilio_machaon', 'Papilio_xuthus']
+Pieris_rapae
+['Danaus_plexippus', 'Bicyclus_anynana', 'Heliconius_melpomene', 'Melitaea_cinxia']
+Oryzias_latipes
+['Nothobranchius_furzeri', 'Cyprinodon_variegatus', 'Fundulus_heteroclitus', 'Xiphophorus_maculatus', 'Poecilia_mexicana']
+Lates_calcarifer
+['Seriola_dumerili']
+Seriola_dumerili
+['Lates_calcarifer']
+Boleophthalmus_pectinirostris
+['Gasterosteus_aculeatus', 'Notothenia_coriiceps', 'Labrus_bergylta', 'Larimichthys_crocea', 'Takifugu_rubripes', 'Tetraodon_nigroviridis']
+Sinocyclocheilus_grahami
+['Sinocyclocheilus_anshuiensis']
+Sinocyclocheilus_anshuiensis
+['Sinocyclocheilus_grahami']
+Condylura_cristata
+['Erinaceus_europaeus', 'Sorex_araneus']
+Trichechus_manatus
+['Loxodonta_africana']
+Loxodonta_africana
+['Trichechus_manatus']
+Orycteropus_afer
+['Elephantulus_edwardii', 'Echinops_telfairi', 'Chrysochloris_asiatica']
+Ceratina_calcarata
+['Eufriesea_mexicana', 'Apis_florea', 'Apis_dorsata', 'Apis_mellifera', 'Apis_cerana']
+Musca_domestica
+['Stomoxys_calcitrans']
+Stomoxys_calcitrans
+['Musca_domestica']
+Ceratitis_capitata
+['Bactrocera_cucurbitae', 'Bactrocera_dorsalis', 'Bactrocera_oleae']
+Papilio_machaon
+['Papilio_xuthus']
+Papilio_xuthus
+['Papilio_machaon']
+Danaus_plexippus
+['Bicyclus_anynana', 'Heliconius_melpomene', 'Melitaea_cinxia']
+Nothobranchius_furzeri
+['Cyprinodon_variegatus', 'Fundulus_heteroclitus', 'Xiphophorus_maculatus', 'Poecilia_mexicana']
+Acanthochromis_polyacanthus
+['Stegastes_partitus']
+Stegastes_partitus
+['Acanthochromis_polyacanthus']
+Neolamprologus_brichardi
+['Haplochromis_burtoni', 'Maylandia_zebra', 'Pundamilia_nyererei']
+Numida_meleagris
+['Coturnix_japonica', 'Meleagris_gallopavo', 'Gallus_gallus']
+Anser_cygnoides
+['Anas_platyrhynchos']
+Anas_platyrhynchos
+['Anser_cygnoides']
+Erinaceus_europaeus
+['Sorex_araneus']
+Sorex_araneus
+['Erinaceus_europaeus']
+Oryctolagus_cuniculus
+['Ochotona_princeps']
+Ochotona_princeps
+['Oryctolagus_cuniculus']
+Otolemur_garnettii
+['Propithecus_coquereli', 'Microcebus_murinus']
+Carlito_syrichta
+['Callithrix_jacchus', 'Aotus_nancymaae', 'Saimiri_boliviensis', 'Cebus_capucinus', 'Nomascus_leucogenys', 'Chlorocebus_sabaeus', 'Colobus_angolensis', 'Pongo_abelii', 'Rhinopithecus_roxellana', 'Rhinopithecus_bieti', 'Gorilla_gorilla', 'Papio_anubis', 'Macaca_nemestrina', 'Homo_sapiens', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis', 'Pan_troglodytes', 'Pan_paniscus']
+Elephantulus_edwardii
+['Echinops_telfairi', 'Chrysochloris_asiatica']
+Eufriesea_mexicana
+['Apis_florea', 'Apis_dorsata', 'Apis_mellifera', 'Apis_cerana']
+Pogonomyrmex_barbatus
+['Wasmannia_auropunctata', 'Vollenhovia_emeryi', 'Cyphomyrmex_costatus', 'Atta_cephalotes', 'Trachymyrmex_zeteki', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis']
+Solenopsis_invicta
+['Monomorium_pharaonis']
+Monomorium_pharaonis
+['Solenopsis_invicta']
+Culex_quinquefasciatus
+['Aedes_albopictus', 'Aedes_aegypti']
+Anopheles_darlingi
+['Anopheles_gambiae']
+Anopheles_gambiae
+['Anopheles_darlingi']
+Drosophila_busckii
+['Drosophila_grimshawi', 'Drosophila_virilis', 'Drosophila_navojoa', 'Drosophila_mojavensis', 'Drosophila_arizonae']
+Drosophila_willistoni
+['Drosophila_obscura', 'Drosophila_miranda', 'Drosophila_ananassae', 'Drosophila_bipectinata', 'Drosophila_persimilis', 'Drosophila_pseudoobscura', 'Drosophila_serrata', 'Drosophila_kikkawai', 'Drosophila_ficusphila', 'Drosophila_eugracilis', 'Drosophila_elegans', 'Drosophila_rhopaloa', 'Drosophila_takahashii', 'Drosophila_melanogaster', 'Drosophila_erecta', 'Drosophila_yakuba', 'Drosophila_biarmipes', 'Drosophila_suzukii', 'Drosophila_sechellia', 'Drosophila_simulans']
+Bicyclus_anynana
+['Heliconius_melpomene', 'Melitaea_cinxia']
+Cyprinodon_variegatus
+['Fundulus_heteroclitus', 'Xiphophorus_maculatus', 'Poecilia_mexicana']
+Haplochromis_burtoni
+['Maylandia_zebra', 'Pundamilia_nyererei']
+Gasterosteus_aculeatus
+['Notothenia_coriiceps']
+Notothenia_coriiceps
+['Gasterosteus_aculeatus']
+Coturnix_japonica
+['Meleagris_gallopavo', 'Gallus_gallus']
+Tauraco_erythrolophus
+['Cuculus_canorus']
+Cuculus_canorus
+['Tauraco_erythrolophus']
+Calypte_anna
+['Chaetura_pelagica']
+Chaetura_pelagica
+['Calypte_anna']
+Miniopterus_natalensis
+['Eptesicus_fuscus', 'Myotis_davidii', 'Myotis_brandtii', 'Myotis_lucifugus']
+Propithecus_coquereli
+['Microcebus_murinus']
+Microcebus_murinus
+['Propithecus_coquereli']
+Echinops_telfairi
+['Chrysochloris_asiatica']
+Chrysochloris_asiatica
+['Echinops_telfairi']
+Apis_florea
+['Apis_dorsata', 'Apis_mellifera', 'Apis_cerana']
+Wasmannia_auropunctata
+['Vollenhovia_emeryi', 'Cyphomyrmex_costatus', 'Atta_cephalotes', 'Trachymyrmex_zeteki', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis']
+Aedes_albopictus
+['Aedes_aegypti']
+Aedes_aegypti
+['Aedes_albopictus']
+Bactrocera_dorsalis
+['Bactrocera_oleae']
+Bactrocera_oleae
+['Bactrocera_dorsalis']
+Drosophila_grimshawi
+['Drosophila_virilis', 'Drosophila_navojoa', 'Drosophila_mojavensis', 'Drosophila_arizonae']
+Heliconius_melpomene
+['Melitaea_cinxia']
+Melitaea_cinxia
+['Heliconius_melpomene']
+Fundulus_heteroclitus
+['Xiphophorus_maculatus', 'Poecilia_mexicana']
+Maylandia_zebra
+['Pundamilia_nyererei']
+Pundamilia_nyererei
+['Maylandia_zebra']
+Labrus_bergylta
+['Larimichthys_crocea']
+Larimichthys_crocea
+['Labrus_bergylta']
+Takifugu_rubripes
+['Tetraodon_nigroviridis']
+Tetraodon_nigroviridis
+['Takifugu_rubripes']
+Meleagris_gallopavo
+['Gallus_gallus']
+Gallus_gallus
+['Meleagris_gallopavo']
+Manis_javanica
+['Canis_lupus', 'Panthera_tigris', 'Panthera_pardus', 'Felis_catus', 'Acinonyx_jubatus', 'Mustela_putorius', 'Ailuropoda_melanoleuca', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Leptonychotes_weddellii', 'Monachus_monachus']
+Ceratotherium_simum
+['Equus_asinus', 'Equus_caballus', 'Equus_przewalskii']
+Vicugna_pacos
+['Camelus_dromedarius', 'Camelus_ferus', 'Camelus_bactrianus']
+Sus_scrofa
+['Balaenoptera_acutorostrata', 'Odocoileus_virginianus', 'Physeter_catodon', 'Lipotes_vexillifer', 'Bubalus_bubalis', 'Pantholops_hodgsonii', 'Tursiops_truncatus', 'Orcinus_orca', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Bos_mutus', 'Bos_taurus', 'Bos_indicus']
+Hipposideros_armiger
+['Rhinolophus_sinicus']
+Rhinolophus_sinicus
+['Hipposideros_armiger']
+Rousettus_aegyptiacus
+['Pteropus_vampyrus', 'Pteropus_alecto']
+Eptesicus_fuscus
+['Myotis_davidii', 'Myotis_brandtii', 'Myotis_lucifugus']
+Heterocephalus_glaber
+['Fukomys_damarensis']
+Fukomys_damarensis
+['Heterocephalus_glaber']
+Ictidomys_tridecemlineatus
+['Marmota_marmota']
+Marmota_marmota
+['Ictidomys_tridecemlineatus']
+Apis_dorsata
+['Apis_mellifera', 'Apis_cerana']
+Vollenhovia_emeryi
+['Cyphomyrmex_costatus', 'Atta_cephalotes', 'Trachymyrmex_zeteki', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis']
+Drosophila_virilis
+['Drosophila_navojoa', 'Drosophila_mojavensis', 'Drosophila_arizonae']
+Drosophila_obscura
+['Drosophila_miranda', 'Drosophila_persimilis', 'Drosophila_pseudoobscura']
+Xiphophorus_maculatus
+['Poecilia_mexicana']
+Poecilia_mexicana
+['Xiphophorus_maculatus']
+Acanthisitta_chloris
+['Lepidothrix_coronata', 'Manacus_vitellinus', 'Corvus_brachyrhynchos', 'Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Lonchura_striata', 'Taeniopygia_guttata']
+Columba_livia
+['Opisthocomus_hoazin']
+Opisthocomus_hoazin
+['Columba_livia']
+Equus_asinus
+['Equus_caballus', 'Equus_przewalskii']
+Camelus_dromedarius
+['Camelus_ferus', 'Camelus_bactrianus']
+Pteropus_vampyrus
+['Pteropus_alecto']
+Pteropus_alecto
+['Pteropus_vampyrus']
+Myotis_davidii
+['Myotis_brandtii', 'Myotis_lucifugus']
+Cavia_porcellus
+['Cavia_aperea']
+Cavia_aperea
+['Cavia_porcellus']
+Octodon_degus
+['Chinchilla_lanigera']
+Chinchilla_lanigera
+['Octodon_degus']
+Jaculus_jaculus
+['Nannospalax_galili', 'Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Mus_caroli', 'Mus_musculus', 'Mus_spretus']
+Dipodomys_ordii
+['Castor_canadensis']
+Castor_canadensis
+['Dipodomys_ordii']
+Callithrix_jacchus
+['Aotus_nancymaae']
+Aotus_nancymaae
+['Callithrix_jacchus']
+Saimiri_boliviensis
+['Cebus_capucinus']
+Cebus_capucinus
+['Saimiri_boliviensis']
+Nomascus_leucogenys
+['Pongo_abelii', 'Gorilla_gorilla', 'Homo_sapiens', 'Pan_troglodytes', 'Pan_paniscus']
+Apis_mellifera
+['Apis_cerana']
+Apis_cerana
+['Apis_mellifera']
+Cyphomyrmex_costatus
+['Atta_cephalotes', 'Trachymyrmex_zeteki', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis']
+Drosophila_navojoa
+['Drosophila_mojavensis', 'Drosophila_arizonae']
+Drosophila_miranda
+['Drosophila_persimilis', 'Drosophila_pseudoobscura']
+Drosophila_ananassae
+['Drosophila_bipectinata']
+Drosophila_bipectinata
+['Drosophila_ananassae']
+Tyto_alba
+['Melopsittacus_undulatus', 'Nestor_notabilis']
+['Mustela_putorius', 'Ailuropoda_melanoleuca', 'Odobenus_rosmarus', 'Ursus_arctos', 'Ursus_maritimus', 'Leptonychotes_weddellii', 'Monachus_monachus']
+Equus_caballus
+['Equus_przewalskii']
+Equus_przewalskii
+['Equus_caballus']
+Camelus_ferus
+['Camelus_bactrianus']
+Camelus_bactrianus
+['Camelus_ferus']
+Balaenoptera_acutorostrata
+['Physeter_catodon', 'Lipotes_vexillifer', 'Tursiops_truncatus', 'Orcinus_orca']
+Odocoileus_virginianus
+['Bubalus_bubalis', 'Pantholops_hodgsonii', 'Bison_bison', 'Capra_hircus', 'Ovis_aries', 'Bos_mutus', 'Bos_taurus', 'Bos_indicus']
+Myotis_brandtii
+['Myotis_lucifugus']
+Myotis_lucifugus
+['Myotis_brandtii']
+Nannospalax_galili
+['Meriones_unguiculatus', 'Peromyscus_maniculatus', 'Rattus_norvegicus', 'Microtus_ochrogaster', 'Mus_pahari', 'Mesocricetus_auratus', 'Cricetulus_griseus', 'Mus_caroli', 'Mus_musculus', 'Mus_spretus']
+Chlorocebus_sabaeus
+['Papio_anubis', 'Macaca_nemestrina', 'Mandrillus_leucophaeus', 'Cercocebus_atys', 'Macaca_mulatta', 'Macaca_fascicularis']
+Colobus_angolensis
+['Rhinopithecus_roxellana', 'Rhinopithecus_bieti']
+Pongo_abelii
+['Gorilla_gorilla', 'Homo_sapiens', 'Pan_troglodytes', 'Pan_paniscus']
+Atta_cephalotes
+['Trachymyrmex_zeteki', 'Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis']
+Drosophila_mojavensis
+['Drosophila_arizonae']
+Drosophila_arizonae
+['Drosophila_mojavensis']
+Drosophila_persimilis
+['Drosophila_pseudoobscura']
+Drosophila_pseudoobscura
+['Drosophila_persimilis']
+Drosophila_serrata
+['Drosophila_kikkawai']
+Drosophila_kikkawai
+['Drosophila_serrata']
+Buceros_rhinoceros
+['Colius_striatus', 'Picoides_pubescens', 'Apaloderma_vittatum']
+Merops_nubicus
+['Leptosomus_discolor']
+Leptosomus_discolor
+['Merops_nubicus']
+Melopsittacus_undulatus
+['Nestor_notabilis']
+Nestor_notabilis
+['Melopsittacus_undulatus']
+Lepidothrix_coronata
+['Manacus_vitellinus']
+Manacus_vitellinus
+['Lepidothrix_coronata']
+Corvus_brachyrhynchos
+['Ficedula_albicollis', 'Sturnus_vulgaris', 'Parus_major', 'Pseudopodoces_humilis', 'Zonotrichia_albicollis', 'Geospiza_fortis', 'Serinus_canaria', 'Lonchura_striata', 'Taeniopygia_guttata']
+Falco_peregrinus
+['Falco_cherrug']
+Falco_cherrug
+['Falco_peregrinus']
+Aquila_chrysaetos
+['Haliaeetus_leucocephalus', 'Haliaeetus_albicilla']
+Panthera_tigris
+['Panthera_pardus']
+Panthera_pardus
+['Panthera_tigris']
+Felis_catus
+['Acinonyx_jubatus']
+Acinonyx_jubatus
+['Felis_catus']
+Physeter_catodon
+['Lipotes_vexillifer', 'Tursiops_truncatus', 'Orcinus_orca']
+Rhinopithecus_roxellana
+['Rhinopithecus_bieti']
+Rhinopithecus_bieti
+['Rhinopithecus_roxellana']
+Gorilla_gorilla
+['Homo_sapiens', 'Pan_troglodytes', 'Pan_paniscus']
+Trachymyrmex_zeteki
+['Trachymyrmex_cornetzi', 'Trachymyrmex_septentrionalis']
+Drosophila_ficusphila
+['Drosophila_melanogaster', 'Drosophila_erecta', 'Drosophila_yakuba', 'Drosophila_sechellia', 'Drosophila_simulans']
+Colius_striatus
+['Picoides_pubescens', 'Apaloderma_vittatum']
+Cariama_cristata
+['Balearica_regulorum', 'Chlamydotis_macqueenii', 'Eurypyga_helias', 'Mesitornis_unicolor']
+Pterocles_gutturalis
+['Phaethon_lepturus', 'Phalacrocorax_carbo', 'Pelecanus_crispus', 'Egretta_garzetta', 'Nipponia_nippon']
+Gavia_stellata
+['Fulmarus_glacialis', 'Pygoscelis_adeliae', 'Aptenodytes_forsteri']
+Calidris_pugnax
+['Charadrius_vociferus']
+Charadrius_vociferus
+['Calidris_pugnax']
+Haliaeetus_leucocephalus
+['Haliaeetus_albicilla']
+Haliaeetus_albicilla
+['Haliaeetus_leucocephalus']
+Mustela_putorius
+['Odobenus_rosmarus', 'Leptonychotes_weddellii', 'Monachus_monachus']
+Ailuropoda_melanoleuca
+['Ursus_arctos', 'Ursus_maritimus']
+Lipotes_vexillifer
+['Tursiops_truncatus', 'Orcinus_orca']
+Bubalus_bubalis
+['Bison_bison', 'Bos_mutus', 'Bos_taurus', 'Bos_indicus']
+Pantholops_hodgsonii
+['Capra_hircus', 'Ovis_aries']
+Meriones_unguiculatus
+['Rattus_norvegicus', 'Mus_pahari', 'Mus_caroli', 'Mus_musculus', 'Mus_spretus']
+Peromyscus_maniculatus
+['Microtus_ochrogaster', 'Mesocricetus_auratus', 'Cricetulus_griseus']
+Papio_anubis
+['Mandrillus_leucophaeus', 'Cercocebus_atys']
+Macaca_nemestrina
+['Macaca_mulatta', 'Macaca_fascicularis']
+Homo_sapiens
+['Pan_troglodytes', 'Pan_paniscus']
+Trachymyrmex_cornetzi
+['Trachymyrmex_septentrionalis']
+Trachymyrmex_septentrionalis
+['Trachymyrmex_cornetzi']
+Drosophila_eugracilis
+['Drosophila_takahashii', 'Drosophila_biarmipes', 'Drosophila_suzukii']
+Drosophila_elegans
+['Drosophila_rhopaloa']
+Drosophila_rhopaloa
+['Drosophila_elegans']
+Picoides_pubescens
+['Apaloderma_vittatum']
+Apaloderma_vittatum
+['Picoides_pubescens']
+Phaethon_lepturus
+['Phalacrocorax_carbo', 'Pelecanus_crispus', 'Egretta_garzetta', 'Nipponia_nippon']
+Fulmarus_glacialis
+['Pygoscelis_adeliae', 'Aptenodytes_forsteri']
+Odobenus_rosmarus
+['Leptonychotes_weddellii', 'Monachus_monachus']
+Ursus_arctos
+['Ursus_maritimus']
+Ursus_maritimus
+['Ursus_arctos']
+Tursiops_truncatus
+['Orcinus_orca']
+Orcinus_orca
+['Tursiops_truncatus']
+Bison_bison
+['Bos_mutus', 'Bos_taurus', 'Bos_indicus']
+Capra_hircus
+['Ovis_aries']
+Ovis_aries
+['Capra_hircus']
+Rattus_norvegicus
+['Mus_pahari', 'Mus_caroli', 'Mus_musculus', 'Mus_spretus']
+Microtus_ochrogaster
+['Mesocricetus_auratus', 'Cricetulus_griseus']
+Mandrillus_leucophaeus
+['Cercocebus_atys']
+Cercocebus_atys
+['Mandrillus_leucophaeus']
+Macaca_mulatta
+['Macaca_fascicularis']
+Macaca_fascicularis
+['Macaca_mulatta']
+Pan_troglodytes
+['Pan_paniscus']
+Pan_paniscus
+['Pan_troglodytes']
+Drosophila_takahashii
+['Drosophila_biarmipes', 'Drosophila_suzukii']
+Drosophila_melanogaster
+['Drosophila_sechellia', 'Drosophila_simulans']
+Drosophila_erecta
+['Drosophila_yakuba']
+Drosophila_yakuba
+['Drosophila_erecta']
+Ficedula_albicollis
+['Sturnus_vulgaris']
+Sturnus_vulgaris
+['Ficedula_albicollis']
+Parus_major
+['Pseudopodoces_humilis']
+Pseudopodoces_humilis
+['Parus_major']
+Zonotrichia_albicollis
+['Geospiza_fortis']
+Geospiza_fortis
+['Zonotrichia_albicollis']
+Serinus_canaria
+['Lonchura_striata', 'Taeniopygia_guttata']
+Balearica_regulorum
+['Chlamydotis_macqueenii']
+Chlamydotis_macqueenii
+['Balearica_regulorum']
+Eurypyga_helias
+['Mesitornis_unicolor']
+Mesitornis_unicolor
+['Eurypyga_helias']
+Phalacrocorax_carbo
+['Pelecanus_crispus', 'Egretta_garzetta', 'Nipponia_nippon']
+Pygoscelis_adeliae
+['Aptenodytes_forsteri']
+Aptenodytes_forsteri
+['Pygoscelis_adeliae']
+Leptonychotes_weddellii
+['Monachus_monachus']
+Bos_mutus
+['Bos_taurus', 'Bos_indicus']
+Mus_pahari
+['Mus_caroli', 'Mus_musculus', 'Mus_spretus']
+Mesocricetus_auratus
+['Cricetulus_griseus']
+Cricetulus_griseus
+['Mesocricetus_auratus']
+Drosophila_biarmipes
+['Drosophila_suzukii']
+Drosophila_suzukii
+['Drosophila_biarmipes']
+Drosophila_sechellia
+['Drosophila_simulans']
+Drosophila_simulans
+['Drosophila_sechellia']
+Lonchura_striata
+['Taeniopygia_guttata']
+Taeniopygia_guttata
+['Lonchura_striata']
+Pelecanus_crispus
+['Egretta_garzetta', 'Nipponia_nippon']
+Bos_taurus
+['Bos_indicus']
+Bos_indicus
+['Bos_taurus']
+Mus_caroli
+['Mus_musculus', 'Mus_spretus']
+Egretta_garzetta
+['Nipponia_nippon']
+Nipponia_nippon
+['Egretta_garzetta']
+Mus_musculus
+['Mus_spretus']
+Mus_spretus
+['Mus_musculus']
